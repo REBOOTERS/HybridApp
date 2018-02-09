@@ -1,0 +1,30 @@
+{
+  "name": "Hybridapplication",
+  "version": "1.0.0",
+  "description": "hybrid application",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/REBOOTERS/HybridApp.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "app",
+    "android",
+    "hybrid"
+  ],
+  "author": "rookie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/REBOOTERS/HybridApp/issues"
+  },
+  "homepage": "https://github.com/REBOOTERS/HybridApp#readme",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "16.0.0",
+    "react-native": "0.51.0"
+  }
+}
