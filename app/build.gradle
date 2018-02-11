@@ -36,4 +36,15 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
     compile "com.facebook.react:react-native:+"
+
+    compile project(':react-native-video')
+    compile project(':react-native-image-crop-picker')
+//    compile fileTree(dir: "libs", include: ["*.jar"])
+//    compile "com.android.support:appcompat-v7:23.0.1"
+//    compile "com.facebook.react:react-native:+"  // From node_modules
+
+    // 如果只需要支持WebP格式而不需要动图
+    compile 'com.facebook.fresco:webpsupport:1.0.1'
+
+    compile project(':react-native-camera')
 }

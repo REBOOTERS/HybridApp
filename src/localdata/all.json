@@ -1,0 +1,1255 @@
+﻿{
+  "modules": [
+    {
+      "url": "",
+      "module_name": "movie_showing",
+      "data": {
+        "subject_collection_boards": [
+          {
+            "subject_collection": {
+              "subject_count": 39,
+              "name": "影院热映",
+              "url": "https://m.douban.com/app_topic/movie_showing",
+              "uri": "douban://douban.com/subject_collection/movie_showing",
+              "cover_url": "",
+              "display": {
+                "layout": "grid"
+              },
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/subject_collection/movie_showing/",
+              "id": "movie_showing",
+              "description": ""
+            },
+            "type": "movie",
+            "items": [
+              {
+                "info": "路阳/张震/杨幂/张译/动作/武侠/古装/2017-07-19(中国大陆)",
+                "rating": {
+                  "count": 25779,
+                  "max": 10,
+                  "value": 7.7
+                },
+                "description": "",
+                "title": "绣春刀II：修罗战场",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26270502/",
+                "reviewer_name": "",
+                "release_date": "07.19",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492665487.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 705,
+                  "shape": "rectangle",
+                  "height": 1000
+                },
+                "uri": "douban://douban.com/movie/26270502",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "路阳"
+                ],
+                "actors": [
+                  "张震",
+                  "杨幂",
+                  "张译"
+                ],
+                "id": "26270502",
+                "type": "movie"
+              },
+              {
+                "info": "袁卫东/大鹏/范伟/张天爱/剧情/喜剧/2017-07-21(中国大陆)",
+                "rating": {
+                  "count": 4860,
+                  "max": 10,
+                  "value": 5.6
+                },
+                "description": "",
+                "title": "父子雄兵",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26898747/",
+                "reviewer_name": "",
+                "release_date": "07.21",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492957074.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 682,
+                  "shape": "rectangle",
+                  "height": 1000
+                },
+                "uri": "douban://douban.com/movie/26898747",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "袁卫东"
+                ],
+                "actors": [
+                  "大鹏",
+                  "范伟",
+                  "张天爱"
+                ],
+                "id": "26898747",
+                "type": "movie"
+              },
+              {
+                "info": "王微/季冠霖/洪晃/动画/冒险/家庭/2017-07-21(中国大陆)",
+                "description": "",
+                "title": "阿唐奇遇",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26803711/",
+                "reviewer_name": "",
+                "release_date": "07.21",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2482761924.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 1142,
+                  "shape": "rectangle",
+                  "height": 1600
+                },
+                "uri": "douban://douban.com/movie/26803711",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "王微"
+                ],
+                "actors": [
+                  "季冠霖",
+                  "洪晃"
+                ],
+                "id": "26803711",
+                "type": "movie"
+              },
+              {
+                "info": "戴维/李果/闫鹿杨/庄森/悬疑/惊悚/冒险/2017-07-21(中国大陆)",
+                "description": "",
+                "title": "谜域之噬魂岭",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26772915/",
+                "reviewer_name": "",
+                "release_date": "07.21",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2493309634.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 1617,
+                  "shape": "rectangle",
+                  "height": 2382
+                },
+                "uri": "douban://douban.com/movie/26772915",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "戴维"
+                ],
+                "actors": [
+                  "李果",
+                  "闫鹿杨",
+                  "庄森"
+                ],
+                "id": "26772915",
+                "type": "movie"
+              },
+              {
+                "info": "刘艳杰/张永达/庄小龙/李相炫/剧情/犯罪/2017-07-21(中国大陆)",
+                "description": "",
+                "title": "战刀屠狼",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/27086953/",
+                "reviewer_name": "",
+                "release_date": "07.21",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492920301.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 550,
+                  "shape": "rectangle",
+                  "height": 917
+                },
+                "uri": "douban://douban.com/movie/27086953",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "刘艳杰"
+                ],
+                "actors": [
+                  "张永达",
+                  "庄小龙",
+                  "李相炫"
+                ],
+                "id": "27086953",
+                "type": "movie"
+              },
+              {
+                "info": "郭子健/彭于晏/倪妮/余文乐/剧情/动作/奇幻/2017-07-13(中国大陆)",
+                "rating": {
+                  "count": 62555,
+                  "max": 10,
+                  "value": 5.5
+                },
+                "description": "",
+                "title": "悟空传",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26035290/",
+                "reviewer_name": "",
+                "release_date": "07.13",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2475060299.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 3000,
+                  "shape": "rectangle",
+                  "height": 4190
+                },
+                "uri": "douban://douban.com/movie/26035290",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "郭子健"
+                ],
+                "actors": [
+                  "彭于晏",
+                  "倪妮",
+                  "余文乐"
+                ],
+                "id": "26035290",
+                "type": "movie"
+              },
+              {
+                "info": "凯尔·巴尔达/史蒂夫·卡瑞尔/克里斯汀·韦格/崔·帕克/喜剧/动画/冒险/2017-07-07(中国大陆)",
+                "rating": {
+                  "count": 64534,
+                  "max": 10,
+                  "value": 7
+                },
+                "description": "",
+                "title": "神偷奶爸3",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/25812712/",
+                "reviewer_name": "",
+                "release_date": "07.07",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2469070974.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 5512,
+                  "shape": "rectangle",
+                  "height": 7874
+                },
+                "uri": "douban://douban.com/movie/25812712",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "凯尔·巴尔达"
+                ],
+                "actors": [
+                  "史蒂夫·卡瑞尔",
+                  "克里斯汀·韦格",
+                  "崔·帕克"
+                ],
+                "id": "25812712",
+                "type": "movie"
+              },
+              {
+                "info": "王冉/徐璐/彭昱畅/刘泳希/剧情/喜剧/音乐/2017-07-20(中国大陆)",
+                "rating": {
+                  "count": 6509,
+                  "max": 10,
+                  "value": 7.2
+                },
+                "description": "",
+                "title": "闪光少女",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26790961/",
+                "reviewer_name": "",
+                "release_date": "07.20",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492918389.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 3508,
+                  "shape": "rectangle",
+                  "height": 4961
+                },
+                "uri": "douban://douban.com/movie/26790961",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "王冉"
+                ],
+                "actors": [
+                  "徐璐",
+                  "彭昱畅",
+                  "刘泳希"
+                ],
+                "id": "26790961",
+                "type": "movie"
+              },
+              {
+                "info": "不思凡/小连杀/图特哈蒙/金士杰/喜剧/动画/奇幻/2017-07-13(中国大陆)",
+                "rating": {
+                  "count": 64914,
+                  "max": 10,
+                  "value": 8.1
+                },
+                "description": "",
+                "title": "大护法",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26811587/",
+                "reviewer_name": "",
+                "release_date": "07.13",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2490948849.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 1080,
+                  "shape": "rectangle",
+                  "height": 1760
+                },
+                "uri": "douban://douban.com/movie/26811587",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "不思凡"
+                ],
+                "actors": [
+                  "小连杀",
+                  "图特哈蒙",
+                  "金士杰"
+                ],
+                "id": "26811587",
+                "type": "movie"
+              },
+              {
+                "info": "松冈锭司/小林薰/河井青叶/佐藤浩市/剧情/2017-07-18(中国大陆)",
+                "rating": {
+                  "count": 12596,
+                  "max": 10,
+                  "value": 8
+                },
+                "description": "",
+                "title": "深夜食堂2",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26798437/",
+                "reviewer_name": "",
+                "release_date": "07.18",
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492869776.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 1051,
+                  "shape": "rectangle",
+                  "height": 1500
+                },
+                "uri": "douban://douban.com/movie/26798437",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "松冈锭司"
+                ],
+                "actors": [
+                  "小林薰",
+                  "河井青叶",
+                  "佐藤浩市"
+                ],
+                "id": "26798437",
+                "type": "movie"
+              }
+            ]
+          }
+        ],
+        "total": 1
+      },
+      "uri": "douban://douban.com/tag/49/subject_collection_boards",
+      "key": "subject_collection_boards"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_promotion",
+      "data": {
+        "image": "https://qnmob2.doubanio.com/img/files/file-15003477367081.jpg?imageView2/2/q/80/w/9999/h/9999/format/jpg",
+        "description": "",
+        "title": "「豆瓣帆布包·早餐系列」热卖中"
+      },
+      "uri": "https://market.douban.com/campaign/canvasbag?utm_campaign\u003ddouban_frodo_movie_top_banner\u0026utm_source\u003ddouban\u0026utm_medium\u003dapp\u0026dt_banner_src\u003dsubject_movie",
+      "key": "subject_promotion"
+    },
+    {
+      "url": "",
+      "module_name": "movie_soon",
+      "data": {
+        "subject_collection_boards": [
+          {
+            "subject_collection": {
+              "subject_count": 117,
+              "name": "院线即将上映",
+              "url": "https://m.douban.com/app_topic/movie_soon",
+              "uri": "douban://douban.com/subject_collection/movie_soon",
+              "cover_url": "",
+              "display": {
+                "layout": "list"
+              },
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/subject_collection/movie_soon/",
+              "id": "movie_soon",
+              "description": ""
+            },
+            "type": "movie",
+            "items": [
+              {
+                "info": "查文白/夏德俊/郑佩佩/周诗璇/剧情/2017-07-25(中国大陆)",
+                "description": "",
+                "title": "让爱活下去",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26922911/",
+                "reviewer_name": "",
+                "release_date": "07.25",
+                "wish_count": 190,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2463057139.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 2000,
+                  "shape": "rectangle",
+                  "height": 3333
+                },
+                "uri": "douban://douban.com/movie/26922911",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "查文白"
+                ],
+                "actors": [
+                  "夏德俊",
+                  "郑佩佩",
+                  "周诗璇"
+                ],
+                "id": "26922911",
+                "type": "movie"
+              },
+              {
+                "info": "吴京/吴京/弗兰克·格里罗/卢靖姗/动作/2017-07-28(中国大陆)",
+                "description": "",
+                "title": "战狼2",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26363254/",
+                "reviewer_name": "",
+                "release_date": "07.28",
+                "wish_count": 15441,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2485983612.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 750,
+                  "shape": "rectangle",
+                  "height": 1134
+                },
+                "uri": "douban://douban.com/movie/26363254",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "吴京"
+                ],
+                "actors": [
+                  "吴京",
+                  "弗兰克·格里罗",
+                  "卢靖姗"
+                ],
+                "id": "26363254",
+                "type": "movie"
+              },
+              {
+                "info": "刘伟强/刘烨/朱亚文/黄志忠/剧情/历史/2017-07-28(中国大陆)",
+                "description": "",
+                "title": "建军大业",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26692823/",
+                "reviewer_name": "",
+                "release_date": "07.28",
+                "wish_count": 5015,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2400883685.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 1072,
+                  "shape": "rectangle",
+                  "height": 1500
+                },
+                "uri": "douban://douban.com/movie/26692823",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "刘伟强"
+                ],
+                "actors": [
+                  "刘烨",
+                  "朱亚文",
+                  "黄志忠"
+                ],
+                "id": "26692823",
+                "type": "movie"
+              },
+              {
+                "info": "邹燚/陈佩斯/李立群/季冠霖/动画/2017-07-28(中国大陆)",
+                "description": "",
+                "title": "豆福传",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26705107/",
+                "reviewer_name": "",
+                "release_date": "07.28",
+                "wish_count": 2935,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2462145010.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 1532,
+                  "shape": "rectangle",
+                  "height": 2500
+                },
+                "uri": "douban://douban.com/movie/26705107",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "邹燚"
+                ],
+                "actors": [
+                  "陈佩斯",
+                  "李立群",
+                  "季冠霖"
+                ],
+                "id": "26705107",
+                "type": "movie"
+              },
+              {
+                "info": "速达/潘延/范楚绒/胡谦/喜剧/动画/冒险/2017-07-28(中国大陆)",
+                "description": "",
+                "title": "大耳朵图图之美食狂想曲",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/22232939/",
+                "reviewer_name": "",
+                "release_date": "07.28",
+                "wish_count": 1102,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2490966346.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 706,
+                  "shape": "rectangle",
+                  "height": 1000
+                },
+                "uri": "douban://douban.com/movie/22232939",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "速达"
+                ],
+                "actors": [
+                  "潘延",
+                  "范楚绒",
+                  "胡谦"
+                ],
+                "id": "22232939",
+                "type": "movie"
+              },
+              {
+                "info": "王良/宋睿/王良/罗翔/悬疑/惊悚/2017-07-28(中国大陆)",
+                "description": "",
+                "title": "玲珑井",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26984234/",
+                "reviewer_name": "",
+                "release_date": "07.28",
+                "wish_count": 94,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2457901479.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 4429,
+                  "shape": "rectangle",
+                  "height": 6697
+                },
+                "uri": "douban://douban.com/movie/26984234",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "王良"
+                ],
+                "actors": [
+                  "宋睿",
+                  "王良",
+                  "罗翔"
+                ],
+                "id": "26984234",
+                "type": "movie"
+              },
+              {
+                "info": "李耀东/刘青/李浩轩/白瑶/悬疑/恐怖/2017-07-28(中国大陆)",
+                "description": "",
+                "title": "夜半凶铃",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/27082116/",
+                "reviewer_name": "",
+                "release_date": "07.28",
+                "wish_count": 64,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492324154.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 4640,
+                  "shape": "rectangle",
+                  "height": 3712
+                },
+                "uri": "douban://douban.com/movie/27082116",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "李耀东"
+                ],
+                "actors": [
+                  "刘青",
+                  "李浩轩",
+                  "白瑶"
+                ],
+                "id": "27082116",
+                "type": "movie"
+              },
+              {
+                "info": "赵小丁/刘亦菲/杨洋/罗晋/爱情/奇幻/2017-08-03(中国大陆)",
+                "description": "",
+                "title": "三生三世十里桃花",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/25823277/",
+                "reviewer_name": "",
+                "release_date": "08.03",
+                "wish_count": 25184,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2466328529.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 2126,
+                  "shape": "rectangle",
+                  "height": 2976
+                },
+                "uri": "douban://douban.com/movie/25823277",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "赵小丁"
+                ],
+                "actors": [
+                  "刘亦菲",
+                  "杨洋",
+                  "罗晋"
+                ],
+                "id": "25823277",
+                "type": "movie"
+              },
+              {
+                "info": "裘仲维/尹航/代旭/李晨浩/剧情/喜剧/2017-08-03(中国大陆)",
+                "description": "",
+                "title": "谁是球王",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26958767/",
+                "reviewer_name": "",
+                "release_date": "08.03",
+                "wish_count": 152,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2469808920.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 704,
+                  "shape": "rectangle",
+                  "height": 989
+                },
+                "uri": "douban://douban.com/movie/26958767",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "裘仲维"
+                ],
+                "actors": [
+                  "尹航",
+                  "代旭",
+                  "李晨浩"
+                ],
+                "id": "26958767",
+                "type": "movie"
+              },
+              {
+                "info": "张杨/金巴/曲尼次仁/夏诺.扎西敦珠/剧情/2017-08-04(中国大陆)",
+                "rating": {
+                  "count": 406,
+                  "max": 10,
+                  "value": 6.8
+                },
+                "description": "",
+                "title": "皮绳上的魂",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26177735/",
+                "reviewer_name": "",
+                "release_date": "08.04",
+                "wish_count": 1852,
+                "cover": {
+                  "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2493512317.jpg?imageView2/0/q/80/w/9999/h/200/format/jpg",
+                  "width": 400,
+                  "shape": "rectangle",
+                  "height": 561
+                },
+                "uri": "douban://douban.com/movie/26177735",
+                "actions": [],
+                "subtype": "",
+                "directors": [
+                  "张杨"
+                ],
+                "actors": [
+                  "金巴",
+                  "曲尼次仁",
+                  "夏诺.扎西敦珠"
+                ],
+                "id": "26177735",
+                "type": "movie"
+              }
+            ]
+          }
+        ],
+        "total": 1
+      },
+      "uri": "douban://douban.com/tag/49/subject_collection_boards",
+      "key": "subject_collection_boards"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_promotion",
+      "data": {
+        "image": "https://qnmob2.doubanio.com/img/files/file-15005328487304.jpg?imageView2/2/q/80/w/9999/h/9999/format/jpg",
+        "description": "",
+        "title": "神秘观影团「第五弹」！解暑纳凉超前品尝未公映院线大片~"
+      },
+      "uri": "douban://douban.com/event/29122657?dt_banner_src\u003dsubject_movie",
+      "key": "subject_promotion"
+    },
+    {
+      "url": "",
+      "module_name": "movie_selected_collections",
+      "data": {
+        "total": 4,
+        "selected_collections": [
+          {
+            "description": "8分以上好电影",
+            "url": "https://m.douban.com/app_topic/movie_top250",
+            "uri": "douban://douban.com/subject_collection/movie_top250",
+            "covers": [
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p480747492.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p1910813120.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p511118051.jpg"
+            ],
+            "rank": true,
+            "background_color": "#E1A01A",
+            "id": "movie_top250",
+            "name": "豆瓣 Top250"
+          },
+          {
+            "description": "7月14日 - 7月21日",
+            "url": "https://m.douban.com/app_topic/movie_best",
+            "uri": "douban://douban.com/subject_collection/movie_best",
+            "covers": [
+              "https://img1.doubanio.com/view/movie_poster_cover/mpst/public/p2490948849.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2405979810.jpg",
+              "https://img1.doubanio.com/view/movie_poster_cover/mpst/public/p2453044439.jpg"
+            ],
+            "rank": true,
+            "background_color": "#33BC61",
+            "id": "movie_best",
+            "name": "本周口碑榜"
+          },
+          {
+            "description": "7月14日 - 7月21日",
+            "url": "https://m.douban.com/app_topic/movie_hot",
+            "uri": "douban://douban.com/subject_collection/movie_hot",
+            "covers": [
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2457983084.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2458949885.jpg",
+              "https://img1.doubanio.com/view/movie_poster_cover/mpst/public/p2458020487.jpg"
+            ],
+            "rank": true,
+            "background_color": "#A266C3",
+            "id": "movie_hot",
+            "name": "新片榜"
+          },
+          {
+            "current_tab": "全国",
+            "description": "票房最高排名",
+            "tabs": [
+              "全国",
+              "北美"
+            ],
+            "uri": "douban://douban.com/subject_collection/movie_high_box_office",
+            "rank": true,
+            "url": "https://m.douban.com/app_topic/movie_high_box_office",
+            "covers": [
+              "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2475060299.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2469070974.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2471580153.jpg"
+            ],
+            "background_color": "#E56B87",
+            "id": "movie_high_box_office",
+            "name": "票房榜"
+          }
+        ],
+        "title": "精选榜单"
+      },
+      "uri": "",
+      "key": "selected_collections"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_promotion",
+      "data": {
+        "image": "https://qnmob2.doubanio.com/img/files/file-15003716790842.jpg?imageView2/2/q/80/w/9999/h/9999/format/jpg",
+        "description": "",
+        "title": "#我见过的地球神奇一刻#"
+      },
+      "uri": "https://www.douban.com/gallery/topic/%E6%88%91%E8%A7%81%E8%BF%87%E7%9A%84%E5%9C%B0%E7%90%83%E7%A5%9E%E5%A5%87%E4%B8%80%E5%88%BB/?dt_banner_src\u003dsubject_movie",
+      "key": "subject_promotion"
+    },
+    {
+      "url": "",
+      "module_name": "movie_rec_celebrities",
+      "data": {
+        "type": "movie",
+        "title": "今日推荐影人"
+      },
+      "uri": "douban://douban.com/movie/rec_celebrities",
+      "key": "rec_celebrities"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_suggestion",
+      "data": {
+        "type": "movie",
+        "title": "你可能感兴趣"
+      },
+      "uri": "",
+      "key": "subject_suggestion"
+    },
+    {
+      "url": "",
+      "module_name": "movie_best_reviews",
+      "data": {
+        "total": 3,
+        "best_reviews": [
+          {
+            "rating": {
+              "count": 1,
+              "max": 5,
+              "value": 5,
+              "star_count": 5
+            },
+            "useful_count": 44,
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/review/8665983/",
+            "spoiler": false,
+            "likers_count": 14,
+            "abstract": "《平衡》是国内比较优秀的一部现实主义纪录片。这部片子拍摄的理念很独特。特别地内敛，不张扬，质朴。...",
+            "type_name": "影评",
+            "uri": "douban://douban.com/review/8665983",
+            "cover_url": "",
+            "url": "https://movie.douban.com/review/8665983/",
+            "create_time": "2017-07-14 15:22:01",
+            "comments_count": 0,
+            "user": {
+              "loc": {
+                "uid": "shanwei",
+                "id": "118293",
+                "name": "汕尾"
+              },
+              "kind": "user",
+              "followed": false,
+              "name": "桦树立秋",
+              "url": "https://www.douban.com/people/143047320/",
+              "remark": "",
+              "uri": "douban://douban.com/user/143047320",
+              "in_blacklist": false,
+              "uid": "143047320",
+              "type": "user",
+              "id": "143047320",
+              "avatar": "https://img3.doubanio.com/icon/up143047320-3.jpg"
+            },
+            "title": "寻找生态平衡，寻找心态平衡，寻找人文平衡",
+            "vote_status": 0,
+            "subject": {
+              "rating": {
+                "count": 3392,
+                "max": 10,
+                "value": 9.4,
+                "star_count": 4.5
+              },
+              "genres": [
+                "纪录片",
+                "西部"
+              ],
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/1958031/",
+              "pubdate": [
+                "2000"
+              ],
+              "has_linewatch": false,
+              "url": "https://movie.douban.com/subject/1958031/",
+              "pic": {
+                "large": "https://qnmob2.doubanio.com/lpic/s1978780.jpg?imageView2/2/q/80/w/600/h/3000/format/jpg",
+                "normal": "https://img3.doubanio.com/mpic/s1978780.jpg"
+              },
+              "uri": "douban://douban.com/movie/1958031",
+              "directors": [
+                {
+                  "name": "彭辉"
+                }
+              ],
+              "actors": [
+                {
+                  "name": "奇卡·扎巴多杰"
+                },
+                {
+                  "name": "杨欣"
+                }
+              ],
+              "year": "2000",
+              "title": "平衡",
+              "type": "movie",
+              "id": "1958031",
+              "null_rating_reason": ""
+            },
+            "type": "review",
+            "id": "8665983",
+            "useless_count": 3,
+            "rtype": "review"
+          },
+          {
+            "rating": {
+              "count": 1,
+              "max": 5,
+              "value": 4,
+              "star_count": 0
+            },
+            "useful_count": 31,
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/review/8673896/",
+            "spoiler": true,
+            "likers_count": 1,
+            "abstract": "这部电影由林青霞、莫少聪、吴君如、巫刚主演，可谓是明星云集。吴君如夸张的搞笑风格将整部电影的笑点...",
+            "type_name": "影评",
+            "uri": "douban://douban.com/review/8673896",
+            "cover_url": "",
+            "url": "https://movie.douban.com/review/8673896/",
+            "create_time": "2017-07-17 12:54:48",
+            "comments_count": 0,
+            "user": {
+              "loc": {
+                "uid": "zhengzhou",
+                "id": "118237",
+                "name": "郑州"
+              },
+              "kind": "user",
+              "followed": false,
+              "name": "爱吃馒头的宝宝",
+              "url": "https://www.douban.com/people/151268747/",
+              "remark": "",
+              "uri": "douban://douban.com/user/151268747",
+              "in_blacklist": false,
+              "uid": "151268747",
+              "type": "user",
+              "id": "151268747",
+              "avatar": "https://img3.doubanio.com/icon/up151268747-10.jpg"
+            },
+            "title": "一般般，闲来无事看",
+            "vote_status": 0,
+            "subject": {
+              "rating": {
+                "count": 3840,
+                "max": 10,
+                "value": 6.2,
+                "star_count": 3
+              },
+              "genres": [
+                "喜剧",
+                "动作",
+                "武侠"
+              ],
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/1293518/",
+              "pubdate": [
+                "1994-08-13"
+              ],
+              "has_linewatch": true,
+              "url": "https://movie.douban.com/subject/1293518/",
+              "release_date": "1994-08-13",
+              "pic": {
+                "large": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2352135416.jpg?imageView2/2/q/80/w/600/h/3000/format/jpg",
+                "normal": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2352135416.jpg?imageView2/2/q/80/w/200/h/300/format/jpg"
+              },
+              "uri": "douban://douban.com/movie/1293518",
+              "directors": [
+                {
+                  "name": "袁和平"
+                }
+              ],
+              "actors": [
+                {
+                  "name": "林青霞"
+                },
+                {
+                  "name": "吴君如"
+                },
+                {
+                  "name": "莫少聪"
+                },
+                {
+                  "name": "巫刚"
+                },
+                {
+                  "name": "叶全真"
+                },
+                {
+                  "name": "单立文"
+                }
+              ],
+              "year": "1994",
+              "title": "火云传奇",
+              "type": "movie",
+              "id": "1293518",
+              "null_rating_reason": ""
+            },
+            "type": "review",
+            "id": "8673896",
+            "useless_count": 2,
+            "rtype": "review"
+          },
+          {
+            "rating": {
+              "count": 1,
+              "max": 5,
+              "value": 4,
+              "star_count": 0
+            },
+            "useful_count": 41,
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/review/8667983/",
+            "spoiler": true,
+            "likers_count": 7,
+            "abstract": "《天狗》是一部颇为难得的主旋律佳作，电影以一个伤残军人李天狗担任护林员与当地黑恶势力的斗争为展开...",
+            "type_name": "影评",
+            "uri": "douban://douban.com/review/8667983",
+            "cover_url": "",
+            "url": "https://movie.douban.com/review/8667983/",
+            "create_time": "2017-07-15 11:49:03",
+            "comments_count": 0,
+            "user": {
+              "loc": {
+                "uid": "zhengzhou",
+                "id": "118237",
+                "name": "郑州"
+              },
+              "kind": "user",
+              "followed": false,
+              "name": "爱吃馒头的宝宝",
+              "url": "https://www.douban.com/people/151268747/",
+              "remark": "",
+              "uri": "douban://douban.com/user/151268747",
+              "in_blacklist": false,
+              "uid": "151268747",
+              "type": "user",
+              "id": "151268747",
+              "avatar": "https://img3.doubanio.com/icon/up151268747-10.jpg"
+            },
+            "title": "挺好看的电影",
+            "vote_status": 0,
+            "subject": {
+              "rating": {
+                "count": 12371,
+                "max": 10,
+                "value": 8.4,
+                "star_count": 4
+              },
+              "genres": [
+                "剧情"
+              ],
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/1947270/",
+              "pubdate": [
+                "2006-06-20"
+              ],
+              "has_linewatch": false,
+              "url": "https://movie.douban.com/subject/1947270/",
+              "release_date": "2006-06-20",
+              "pic": {
+                "large": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p1379497824.jpg?imageView2/2/q/80/w/600/h/3000/format/jpg",
+                "normal": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p1379497824.jpg?imageView2/2/q/80/w/200/h/300/format/jpg"
+              },
+              "uri": "douban://douban.com/movie/1947270",
+              "directors": [
+                {
+                  "name": "戚健"
+                }
+              ],
+              "actors": [
+                {
+                  "name": "富大龙"
+                },
+                {
+                  "name": "朱媛媛"
+                },
+                {
+                  "name": "刘子枫"
+                },
+                {
+                  "name": "周力"
+                }
+              ],
+              "year": "2006",
+              "title": "天狗",
+              "type": "movie",
+              "id": "1947270",
+              "null_rating_reason": ""
+            },
+            "type": "review",
+            "id": "8667983",
+            "useless_count": 1,
+            "rtype": "review"
+          }
+        ],
+        "title": "最受欢迎影评"
+      },
+      "uri": "douban://douban.com/movie/best_reviews",
+      "key": "best_reviews"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_filters",
+      "data": {
+        "total": 14,
+        "filters": [
+          [
+            {
+              "url": "",
+              "name": "经典",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,经典"
+            },
+            {
+              "url": "",
+              "name": "豆瓣高分",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,豆瓣高分"
+            },
+            {
+              "url": "",
+              "name": "冷门佳片",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,冷门佳片"
+            }
+          ],
+          [
+            {
+              "url": "",
+              "name": "剧情",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,剧情"
+            },
+            {
+              "url": "",
+              "name": "爱情",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,爱情"
+            },
+            {
+              "url": "",
+              "name": "喜剧",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,喜剧"
+            },
+            {
+              "url": "",
+              "name": "科幻",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,科幻"
+            },
+            {
+              "url": "",
+              "name": "动作",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,动作"
+            },
+            {
+              "url": "",
+              "name": "悬疑",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,悬疑"
+            },
+            {
+              "url": "",
+              "name": "治愈",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,治愈"
+            },
+            {
+              "url": "",
+              "name": "青春",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,青春"
+            },
+            {
+              "url": "",
+              "name": "文艺",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,文艺"
+            }
+          ],
+          [
+            {
+              "url": "",
+              "name": "日本",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,日本"
+            },
+            {
+              "url": "",
+              "name": "韩国",
+              "uri": "douban://douban.com/movie/tag?q\u003d电影,韩国"
+            }
+          ]
+        ],
+        "title": "选电影"
+      },
+      "uri": "douban://douban.com/tag/0/subject_filters",
+      "key": "subject_filters"
+    },
+    {
+      "url": "",
+      "module_name": "movie_related_doulists",
+      "data": {
+        "count": 3,
+        "description": "豆瓣网友制作的电影榜单",
+        "title": "发现好电影",
+        "start": 0,
+        "doulists": [
+          {
+            "merged_cover_url": "https://qnmob2.doubanio.com/dae/frodo/img_handler/doulist_cover/968362/20161004213224?imageView2/2/q/80/w/300/h/300/format/webp",
+            "items_count": 180,
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/doulist/968362/",
+            "title": "同时入选IMDB250和豆瓣电影250的电影",
+            "url": "https://www.douban.com/doulist/968362/",
+            "is_follow": false,
+            "update_time": "2016-10-04 21:32:24",
+            "uri": "douban://douban.com/doulist/968362",
+            "followers_count": 202441,
+            "create_time": "2011-02-07 15:12:47",
+            "owner": {
+              "loc": {
+                "id": "118099",
+                "uid": "taiyuan",
+                "name": "太原"
+              },
+              "kind": "user",
+              "name": "东方快车",
+              "url": "https://www.douban.com/people/3767744/",
+              "uri": "douban://douban.com/user/3767744",
+              "avatar": "https://img3.doubanio.com/icon/up3767744-2.jpg",
+              "type": "user",
+              "id": "3767744",
+              "uid": "dongfangkuaiche"
+            },
+            "item_abstracts": [],
+            "type": "doulist",
+            "id": "968362"
+          },
+          {
+            "merged_cover_url": "https://qnmob2.doubanio.com/dae/frodo/img_handler/doulist_cover/16002/20170704204542?imageView2/2/q/80/w/300/h/300/format/webp",
+            "items_count": 219,
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/doulist/16002/",
+            "title": "带你进入不正常的世界",
+            "url": "https://www.douban.com/doulist/16002/",
+            "is_follow": false,
+            "update_time": "2017-07-04 20:45:42",
+            "uri": "douban://douban.com/doulist/16002",
+            "followers_count": 56381,
+            "create_time": "2006-10-06 22:56:27",
+            "owner": {
+              "loc": {
+                "id": "108288",
+                "uid": "beijing",
+                "name": "北京"
+              },
+              "kind": "user",
+              "name": "DK奔小驰",
+              "url": "https://www.douban.com/people/1037946/",
+              "uri": "douban://douban.com/user/1037946",
+              "avatar": "https://img1.doubanio.com/icon/up1037946-7.jpg",
+              "type": "user",
+              "id": "1037946",
+              "uid": "beijingzz"
+            },
+            "item_abstracts": [],
+            "type": "doulist",
+            "id": "16002"
+          },
+          {
+            "merged_cover_url": "https://qnmob2.doubanio.com/dae/frodo/img_handler/doulist_cover/190343/20170620172709?imageView2/2/q/80/w/300/h/300/format/webp",
+            "items_count": 251,
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/doulist/190343/",
+            "title": "用电【影】来祭奠逝去的岁月",
+            "url": "https://www.douban.com/doulist/190343/",
+            "is_follow": false,
+            "update_time": "2017-06-20 17:27:09",
+            "uri": "douban://douban.com/doulist/190343",
+            "followers_count": 23161,
+            "create_time": "2008-11-14 23:29:26",
+            "owner": {
+              "loc": {
+                "id": "108309",
+                "uid": "chongqing",
+                "name": "重庆"
+              },
+              "kind": "user",
+              "name": "JA5ON™",
+              "url": "https://www.douban.com/people/1532168/",
+              "uri": "douban://douban.com/user/1532168",
+              "avatar": "https://img1.doubanio.com/icon/up1532168-78.jpg",
+              "type": "user",
+              "id": "1532168",
+              "uid": "flower21"
+            },
+            "item_abstracts": [],
+            "type": "doulist",
+            "id": "190343"
+          }
+        ],
+        "total": 11
+      },
+      "uri": "douban://douban.com/tag/49/related_doulists",
+      "key": "related_doulists"
+    }
+  ],
+  "name": "电影"
+}

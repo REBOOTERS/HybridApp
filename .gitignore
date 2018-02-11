@@ -67,3 +67,4 @@ yarn.lock
 app/release/
 app/src/main/assets/index.bundle
 app/src/main/assets/index.bundle.meta
+*.mp4

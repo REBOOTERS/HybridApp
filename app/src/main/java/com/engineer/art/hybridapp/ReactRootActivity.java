@@ -3,11 +3,14 @@ package com.engineer.art.hybridapp;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.brentvatne.react.ReactVideoPackage;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactRootView;
 import com.facebook.react.common.LifecycleState;
 import com.facebook.react.modules.core.DefaultHardwareBackBtnHandler;
 import com.facebook.react.shell.MainReactPackage;
+import com.lwansbrough.RCTCamera.RCTCameraPackage;
+import com.reactnative.ivpusic.imagepicker.PickerPackage;
 
 /**
  * author : Rookie
@@ -31,6 +34,9 @@ public class ReactRootActivity extends AppCompatActivity implements DefaultHardw
                 .setBundleAssetName("index.bundle")
                 .setJSMainModulePath("index")
                 .addPackage(new MainReactPackage())
+                .addPackage(new ReactVideoPackage())
+                .addPackage(new PickerPackage())
+                .addPackage(new RCTCameraPackage())
                 .setUseDeveloperSupport(BuildConfig.DEBUG)
                 .setInitialLifecycleState(LifecycleState.RESUMED)
                 .build();
@@ -46,6 +52,7 @@ public class ReactRootActivity extends AppCompatActivity implements DefaultHardw
     public void invokeDefaultOnBackPressed() {
         super.onBackPressed();
     }
+
     @Override
     protected void onPause() {
         super.onPause();

@@ -1,0 +1,73 @@
+﻿{
+      "url": "",
+      "module_name": "movie_selected_collections",
+      "data": {
+        "total": 4,
+        "selected_collections": [
+          {
+            "description": "8分以上好电影",
+            "url": "https://m.douban.com/app_topic/movie_top250",
+            "uri": "douban://douban.com/subject_collection/movie_top250",
+            "covers": [
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p480747492.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p1910813120.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p511118051.jpg"
+            ],
+            "rank": true,
+            "background_color": "#E1A01A",
+            "id": "movie_top250",
+            "name": "豆瓣 Top250"
+          },
+          {
+            "description": "7月14日 - 7月21日",
+            "url": "https://m.douban.com/app_topic/movie_best",
+            "uri": "douban://douban.com/subject_collection/movie_best",
+            "covers": [
+              "https://img1.doubanio.com/view/movie_poster_cover/mpst/public/p2490948849.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2405979810.jpg",
+              "https://img1.doubanio.com/view/movie_poster_cover/mpst/public/p2453044439.jpg"
+            ],
+            "rank": true,
+            "background_color": "#33BC61",
+            "id": "movie_best",
+            "name": "本周口碑榜"
+          },
+          {
+            "description": "7月14日 - 7月21日",
+            "url": "https://m.douban.com/app_topic/movie_hot",
+            "uri": "douban://douban.com/subject_collection/movie_hot",
+            "covers": [
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2457983084.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2458949885.jpg",
+              "https://img1.doubanio.com/view/movie_poster_cover/mpst/public/p2458020487.jpg"
+            ],
+            "rank": true,
+            "background_color": "#A266C3",
+            "id": "movie_hot",
+            "name": "新片榜"
+          },
+          {
+            "current_tab": "全国",
+            "description": "票房最高排名",
+            "tabs": [
+              "全国",
+              "北美"
+            ],
+            "uri": "douban://douban.com/subject_collection/movie_high_box_office",
+            "rank": true,
+            "url": "https://m.douban.com/app_topic/movie_high_box_office",
+            "covers": [
+              "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2475060299.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2469070974.jpg",
+              "https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2471580153.jpg"
+            ],
+            "background_color": "#E56B87",
+            "id": "movie_high_box_office",
+            "name": "票房榜"
+          }
+        ],
+        "title": "精选榜单"
+      },
+      "uri": "",
+      "key": "selected_collections"
+    }
