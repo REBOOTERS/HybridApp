@@ -21,7 +21,7 @@ const default_avatar='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_
 class SeparateComponent extends Component {
     render() {
         return (
-            <View style={{backgroundColor: 'green', width: 10}}>
+            <View style={{backgroundColor: 'white', width: 10}}>
 
             </View>
         )

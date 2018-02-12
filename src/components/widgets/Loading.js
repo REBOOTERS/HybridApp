@@ -16,7 +16,7 @@ export default class Loading extends Component {
                 justifyContent: 'center'
             }}>
                 <View style={{
-                    flex: 1, backgroundColor: 'black', opacity: 0.4,width:Dimensions.get('window').width
+                    flex: 1, backgroundColor: '#000', opacity: 0.0,width:Dimensions.get('window').width
                 }}/>
 
                 <View style={{
