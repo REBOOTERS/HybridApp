@@ -98,9 +98,7 @@ export default class MovieVideoPlayPage extends Component {
         const flexCompleted = this.getCurrentTimePercentage() * 100;
         const flexRemaining = (1 - this.getCurrentTimePercentage()) * 100;
 
-        let local_video_url = require('../localdata/demo.mp4');
 
-        let url=local_video_url ? local_video_url:{uri:item.video_url};
 
         return (
             <View style={styles.container}>
@@ -111,7 +109,7 @@ export default class MovieVideoPlayPage extends Component {
                         ref={(ref: Video) => { this.video = ref }}
                         /* For ExoPlayer */
                         /* source={{ uri: 'http://www.youtube.com/api/manifest/dash/id/bf5bb2419360daf1/source/youtube?as=fmp4_audio_clear,fmp4_sd_hd_clear&sparams=ip,ipbits,expire,source,id,as&ip=0.0.0.0&ipbits=0&expire=19000000000&signature=51AF5F39AB0CEC3E5497CD9C900EBFEAECCCB5C7.8506521BFC350652163895D4C26DEE124209AA9E&key=ik0', type: 'mpd' }} */
-                        source={url}
+                        source={{uri:item.video_url}}
                         style={styles.fullScreen}
                         rate={this.state.rate}
                         paused={this.state.paused}

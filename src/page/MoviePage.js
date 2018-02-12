@@ -22,7 +22,7 @@ import VerticalSpace from '../components/widgets/VerticalSapce';
 import TitleView from '../components/widgets/TitleView';
 import Loading from '../components/widgets/Loading';
 
-let movie_modules = require('../localdata/movie_index.json');
+let movie_modules = require('../localdata/index.json');
 
 
 let in_threaters_data = require('../localdata/in_theaters.json');
@@ -99,7 +99,7 @@ export default class MoviePage extends Component {
 
         this.setState({
             subject_themes: movie_modules.modules[0].data.items,
-            recommend_trailers: movie_modules.modules[6].data.items,
+            recommend_trailers: movie_modules.modules[5].data.items,
             in_theaters_subjects: in_threaters_data.subjects,
             coming_soon_subjects: coming_soon_data.subjects,
             selected_collections: selected_collections_data.data.selected_collections,

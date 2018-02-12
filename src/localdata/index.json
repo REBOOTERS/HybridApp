@@ -1,0 +1,3260 @@
+﻿{
+  "modules": [
+    {
+      "url": "",
+      "module_name": "movie_subject_themes",
+      "data": {
+        "items": [
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 0,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u113894432-6.jpg",
+                "name": "豆瓣电影"
+              },
+              "url": "https://m.douban.com/page/ge17m9g",
+              "uri": "https://m.douban.com/page/ge17m9g",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1518408954.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "下班之后，睡觉以前，让好电影与你相伴。入围奥斯卡最佳影片的《魅影缝匠》，以复古的色调讲述一段爱恨交织的男女关系。BBC最新纪录片《假如动物会摄影》，以动物视角带给你不一样的世界。最值得推荐的影视内容，都在这里！"
+            },
+            "title": "欣赏奥斯卡三冠影帝的炸裂演技，这是最后一次机会",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/10/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469430893.png",
+              "uri": "douban://douban.com/selection/theme/10",
+              "name": "今晚我有空",
+              "background_color": "#73C1DF",
+              "id": "10",
+              "desc": "综述一周电视和网络节目，帮你度过愉快的空闲时光。"
+            },
+            "background_color": "#0B0E23",
+            "id": "146739"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 0,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u113894432-6.jpg",
+                "name": "豆瓣电影"
+              },
+              "url": "https://m.douban.com/page/xonwazi",
+              "uri": "https://m.douban.com/page/xonwazi",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1518164250.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "还是那栋熟悉的建筑，只是从满眼绿意变成银装素裹，在去年夏天治愈了无数颗心的孝利家民宿，迎来了让人和人变得更亲密的冬季。"
+            },
+            "title": "9.6分虐狗综艺回归，幸福就是你在身边、猫狗双全",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/40/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469420304.png",
+              "uri": "douban://douban.com/selection/theme/40",
+              "name": "豆瓣高分",
+              "background_color": "#42bd56",
+              "id": "40",
+              "desc": ""
+            },
+            "background_color": "#D1C8BC",
+            "id": "146647"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 0,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u113894432-6.jpg",
+                "name": "豆瓣电影"
+              },
+              "url": "https://m.douban.com/page/wi6x5hz",
+              "uri": "https://m.douban.com/page/wi6x5hz",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1518176596.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "2018年第6周，《神秘巨星》《奇迹男孩》继续高分霸榜；《圆桌派 第三季》与《奇葩大会 第二季》等王牌综艺回归，前者更以9.3分空降冠军，听他们嗑瓜子纯聊天都能看一百集。"
+            },
+            "title": "豆瓣9.3，听他们嗑瓜子纯聊天都能看一百集",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/15/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469432604.png",
+              "uri": "douban://douban.com/selection/theme/15",
+              "name": "一周热门影视",
+              "background_color": "#73C1DF",
+              "id": "15",
+              "desc": "包括热门电影榜、热门电视剧榜、热门综艺榜。数据来自豆瓣用户的评分。"
+            },
+            "background_color": "#031223",
+            "id": "146645"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 94901,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u113894432-6.jpg",
+                "name": "豆瓣电影"
+              },
+              "url": "https://www.douban.com/note/656690429/",
+              "uri": "douban://douban.com/note/656690429",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1518111639.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "飙车坠崖肉搏跳楼，人类无法阻止阿汤哥超越自我！"
+            },
+            "title": "2018最燃谍战大片！这个让人心跳加速的男人回来了",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/32/",
+              "icon_url": "https://img1.doubanio.com/img/files/file-1494917659.png",
+              "uri": "douban://douban.com/selection/theme/32",
+              "name": "预告片精选",
+              "background_color": "#73C1DF",
+              "id": "32",
+              "desc": "每周为你推荐豆瓣上最热门的预告片"
+            },
+            "background_color": "#412F24",
+            "id": "146597"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 51022,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u1135929-11.jpg",
+                "name": "豆瓣观影club"
+              },
+              "url": "https://www.douban.com/note/656519625/",
+              "uri": "douban://douban.com/note/656519625",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1517992208.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "2018年的“奥斯卡提名者午宴”于美国洛杉矶当地时间2月5日，在比弗利山庄的希尔顿酒店举办。你能想到的影人来了，你想不到的也来了！"
+            },
+            "title": "好莱坞年度炸裂合影出炉，没到场的嘉宾最抢镜",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/55/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469420304.png",
+              "uri": "douban://douban.com/selection/theme/55",
+              "name": "一周大新闻",
+              "background_color": "#42bd56",
+              "id": "55",
+              "desc": ""
+            },
+            "background_color": "#57514E",
+            "id": "146534"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 0,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u113894432-6.jpg",
+                "name": "豆瓣电影"
+              },
+              "url": "https://m.douban.com/page/nan75ak",
+              "uri": "https://m.douban.com/page/nan75ak",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1517917494.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "许鞍华张艾嘉角逐最佳导演，刘德华古天乐争夺金像影帝！"
+            },
+            "title": "女性导演逆袭崛起！去年最好的香港电影都在这份片单",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/38/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469420304.png",
+              "uri": "douban://douban.com/selection/theme/38",
+              "name": "闪光时刻",
+              "background_color": "#42bd56",
+              "id": "38",
+              "desc": ""
+            },
+            "background_color": "#382113",
+            "id": "146484"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 41229,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u113894432-6.jpg",
+                "name": "豆瓣电影"
+              },
+              "url": "https://www.douban.com/note/656275438/",
+              "uri": "douban://douban.com/note/656275438",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1517816019.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "一年一度的超级碗开赛，本年度重磅新片纷纷发布全新预告，高能不断。"
+            },
+            "title": "美国“春碗”高能来袭！即将掏空你钱包的大片都在这里",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/36/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469420304.png",
+              "uri": "douban://douban.com/selection/theme/36",
+              "name": "缤纷盘点",
+              "background_color": "#42bd56",
+              "id": "36",
+              "desc": ""
+            },
+            "background_color": "#54504B",
+            "id": "146422"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 76488,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u1135929-11.jpg",
+                "name": "豆瓣观影club"
+              },
+              "url": "https://www.douban.com/note/654050449/",
+              "uri": "douban://douban.com/note/654050449",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1516776958.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "好莱坞“跑男团”来袭！队长托马斯（迪伦·欧布莱恩）和两位主力队员——正太副手纽特（托马斯·桑斯特）、性感神助攻米诺（李起弘）和你聊聊新片。"
+            },
+            "title": "世界末日先救谁？好莱坞鲜肉塑料兄弟情太扎心！",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/53/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469420304.png",
+              "uri": "douban://douban.com/selection/theme/53",
+              "name": "观影会客厅",
+              "background_color": "#42bd56",
+              "id": "53",
+              "desc": ""
+            },
+            "background_color": "#0C2429",
+            "id": "145874"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 282121,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 0,
+                "avatar": "https://img3.doubanio.com/icon/u63688511-15.jpg",
+                "name": "凌睿"
+              },
+              "url": "https://movie.douban.com/review/9080257/",
+              "uri": "douban://douban.com/review/9080257",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1516465102.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "《神秘巨星》题材和立意不输《摔跤吧！爸爸》，探讨了家庭、母爱、青春、女权、梦想、自由等主题，感人肺腑，笑中带泪。"
+            },
+            "title": "关于梦想和女性，《摔跤吧！爸爸》后又一部爆款",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/35/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469420304.png",
+              "uri": "douban://douban.com/selection/theme/35",
+              "name": "新片来了",
+              "background_color": "#42bd56",
+              "id": "35",
+              "desc": ""
+            },
+            "background_color": "#987A53",
+            "id": "145671"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 0,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u113894432-6.jpg",
+                "name": "豆瓣电影"
+              },
+              "url": "https://m.douban.com/page/itcypnd",
+              "uri": "https://m.douban.com/page/itcypnd",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1514538766.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "IMDb近日公布了2017年网站剧集好评TOP10榜单，希望新的一年有更多好剧与你相伴。"
+            },
+            "title": "2017欧美十佳剧集来啦！第一名不服不行",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/37/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469420304.png",
+              "uri": "douban://douban.com/selection/theme/37",
+              "name": "追剧不停",
+              "background_color": "#42bd56",
+              "id": "37",
+              "desc": ""
+            },
+            "background_color": "#795535",
+            "id": "144712"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 0,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u113894432-6.jpg",
+                "name": "豆瓣电影"
+              },
+              "url": "https://m.douban.com/page/hklihmm",
+              "uri": "https://m.douban.com/page/hklihmm",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1511284855.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "盘点女神斯嘉丽·约翰逊十部高分电影"
+            },
+            "title": "全世界都在等待寡姐单人电影，而她只想做一枚小清新",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/43/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469420304.png",
+              "uri": "douban://douban.com/selection/theme/43",
+              "name": "焦点影人",
+              "background_color": "#42bd56",
+              "id": "43",
+              "desc": ""
+            },
+            "background_color": "#74808C",
+            "id": "142370"
+          },
+          {
+            "layout": 1,
+            "target": {
+              "read_count": 0,
+              "photos_count": 0,
+              "author": {
+                "verify_type": 1,
+                "avatar": "https://img3.doubanio.com/icon/u113894432-6.jpg",
+                "name": "豆瓣电影"
+              },
+              "url": "https://m.douban.com/page/pf0xil4",
+              "uri": "https://m.douban.com/page/pf0xil4",
+              "more_pic_urls": [],
+              "cover_url": "https://qnmob3.doubanio.com/img/files/file-1510291778.jpg?imageView2/1/q/90/w/840/h/480/format/webp",
+              "desc": "当我们怀念《我爱我家》时，怀念的或许不只是一部优秀的喜剧，还有那些和家人小伙伴一起吃着晚饭看电视的时光。"
+            },
+            "title": "《我爱我家》感动重聚，这些回忆杀电视剧承包了童年",
+            "source": "editor",
+            "theme": {
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/selection/theme/42/",
+              "icon_url": "https://img3.doubanio.com/img/files/file-1469420304.png",
+              "uri": "douban://douban.com/selection/theme/42",
+              "name": "经典捞",
+              "background_color": "#42bd56",
+              "id": "42",
+              "desc": ""
+            },
+            "background_color": "#232020",
+            "id": "141733"
+          }
+        ],
+        "total": 12,
+        "title": "今日推荐"
+      },
+      "uri": "douban://douban.com/movie/themes",
+      "key": "subject_themes"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_selectors",
+      "data": {
+        "total": 2,
+        "subject_selectors": [
+          {
+            "info": "日本／大陆／青春",
+            "uri": "douban://douban.com/movie/tag?q\u003d电影",
+            "key": "filter",
+            "title": "找电影"
+          },
+          {
+            "info": "",
+            "uri": "douban://douban.com/mine/movie",
+            "key": "mine",
+            "title": "我的影视"
+          }
+        ]
+      },
+      "uri": "",
+      "key": "subject_selectors"
+    },
+    {
+      "url": "",
+      "module_name": "movie_showing",
+      "data": {
+        "subject_collection_boards": [
+          {
+            "subject_collection": {
+              "subject_count": 42,
+              "name": "影院热映",
+              "url": "https://m.douban.com/app_topic/movie_showing",
+              "uri": "douban://douban.com/subject_collection/movie_showing",
+              "cover_url": "",
+              "display": {
+                "layout": "grid"
+              },
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/subject_collection/movie_showing/",
+              "id": "movie_showing",
+              "description": ""
+            },
+            "type": "movie",
+            "items": [
+              {
+                "rating": {
+                  "count": 131556,
+                  "max": 10,
+                  "value": 8.0
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 印度 / 剧情 音乐 / 阿德瓦·香登 / 塞伊拉·沃西 梅·维贾",
+                "id": "26942674",
+                "title": "神秘巨星",
+                "actors": [
+                  "塞伊拉·沃西",
+                  "梅·维贾",
+                  "阿米尔·汗"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "印度 / 剧情 音乐 / 阿德瓦·香登 / 塞伊拉·沃西 梅·维贾",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26942674/",
+                "release_date": "01.19",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2508925590.webp",
+                  "width": 568,
+                  "shape": "rectangle",
+                  "height": 800
+                },
+                "uri": "douban://douban.com/movie/26942674",
+                "subtype": "",
+                "directors": [
+                  "阿德瓦·香登"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 23277,
+                  "max": 10,
+                  "value": 6.9
+                },
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 / 爱情 冒险 / 吴有音 / 赵又廷 杨子姗",
+                "id": "26628329",
+                "title": "南极之恋",
+                "actors": [
+                  "赵又廷",
+                  "杨子姗"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 / 爱情 冒险 / 吴有音 / 赵又廷 杨子姗",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26628329/",
+                "release_date": "02.01",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2511935678.webp",
+                  "width": 4370,
+                  "shape": "rectangle",
+                  "height": 6201
+                },
+                "uri": "douban://douban.com/movie/26628329",
+                "subtype": "",
+                "directors": [
+                  "吴有音"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 206300,
+                  "max": 10,
+                  "value": 7.6
+                },
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 / 剧情 爱情 战争 / 李芳芳 / 章子怡 黄晓明",
+                "id": "6874741",
+                "title": "无问西东",
+                "actors": [
+                  "章子怡",
+                  "黄晓明",
+                  "张震"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 / 剧情 爱情 战争 / 李芳芳 / 章子怡 黄晓明",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/6874741/",
+                "release_date": "01.12",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2507572275.webp",
+                  "width": 1750,
+                  "shape": "rectangle",
+                  "height": 2500
+                },
+                "uri": "douban://douban.com/movie/6874741",
+                "subtype": "",
+                "directors": [
+                  "李芳芳"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 42525,
+                  "max": 10,
+                  "value": 7.8
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 剧情 传记 歌舞 / 迈克尔·格雷西 / 休·杰克曼 米歇尔·威廉姆斯",
+                "id": "3914513",
+                "title": "马戏之王",
+                "actors": [
+                  "休·杰克曼",
+                  "米歇尔·威廉姆斯",
+                  "扎克·埃夫隆"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 剧情 传记 歌舞 / 迈克尔·格雷西 / 休·杰克曼 米歇尔·威廉姆斯",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/3914513/",
+                "release_date": "02.01",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2511346392.webp",
+                  "width": 643,
+                  "shape": "rectangle",
+                  "height": 900
+                },
+                "uri": "douban://douban.com/movie/3914513",
+                "subtype": "",
+                "directors": [
+                  "迈克尔·格雷西"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 23711,
+                  "max": 10,
+                  "value": 5.5
+                },
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 美国 / 动作 科幻 冒险 / 韦斯·鲍尔 / 迪伦·奥布莱恩 卡雅·斯考达里奥",
+                "id": "26004132",
+                "title": "移动迷宫3：死亡解药",
+                "actors": [
+                  "迪伦·奥布莱恩",
+                  "卡雅·斯考达里奥",
+                  "李起弘"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 动作 科幻 冒险 / 韦斯·鲍尔 / 迪伦·奥布莱恩 卡雅·斯考达里奥",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26004132/",
+                "release_date": "01.26",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2508618114.webp",
+                  "width": 707,
+                  "shape": "rectangle",
+                  "height": 1024
+                },
+                "uri": "douban://douban.com/movie/26004132",
+                "subtype": "",
+                "directors": [
+                  "韦斯·鲍尔"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 1898,
+                  "max": 10,
+                  "value": 3.6
+                },
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 / 剧情 爱情 / 张歆艺 / 张歆艺 王栎鑫",
+                "id": "26944076",
+                "title": "泡芙小姐",
+                "actors": [
+                  "张歆艺",
+                  "王栎鑫",
+                  "谭维维"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 / 剧情 爱情 / 张歆艺 / 张歆艺 王栎鑫",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26944076/",
+                "release_date": "02.09",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2508918510.webp",
+                  "width": 1750,
+                  "shape": "rectangle",
+                  "height": 2440
+                },
+                "uri": "douban://douban.com/movie/26944076",
+                "subtype": "",
+                "directors": [
+                  "张歆艺"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 90525,
+                  "max": 10,
+                  "value": 8.6
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 香港 / 剧情 儿童 家庭 / 斯蒂芬·卓博斯基 / 雅各布·特伦布莱 朱莉娅·罗伯茨",
+                "id": "26787574",
+                "title": "奇迹男孩",
+                "actors": [
+                  "雅各布·特伦布莱",
+                  "朱莉娅·罗伯茨",
+                  "伊扎贝拉·维多维奇"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 香港 / 剧情 儿童 家庭 / 斯蒂芬·卓博斯基 / 雅各布·特伦布莱 朱莉娅·罗伯茨",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26787574/",
+                "release_date": "01.19",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2507709428.webp",
+                  "width": 2000,
+                  "shape": "rectangle",
+                  "height": 2839
+                },
+                "uri": "douban://douban.com/movie/26787574",
+                "subtype": "",
+                "directors": [
+                  "斯蒂芬·卓博斯基"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 1150,
+                  "max": 10,
+                  "value": 6.9
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 加拿大 / 喜剧 动画 冒险 / 杰森·西森 / 奥卓·阿杜巴 艾米莉·布朗特",
+                "id": "26176481",
+                "title": "小马宝莉大电影",
+                "actors": [
+                  "奥卓·阿杜巴",
+                  "艾米莉·布朗特",
+                  "阿什莉·鲍尔"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 加拿大 / 喜剧 动画 冒险 / 杰森·西森 / 奥卓·阿杜巴 艾米莉·布朗特",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26176481/",
+                "release_date": "02.02",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2512418397.webp",
+                  "width": 1409,
+                  "shape": "rectangle",
+                  "height": 2000
+                },
+                "uri": "douban://douban.com/movie/26176481",
+                "subtype": "",
+                "directors": [
+                  "杰森·西森"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 67041,
+                  "max": 10,
+                  "value": 7.2
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 喜剧 惊悚 恐怖 / 克里斯托弗·兰登 / 杰西卡·罗德 伊瑟尔·布罗萨德",
+                "id": "27027913",
+                "title": "忌日快乐",
+                "actors": [
+                  "杰西卡·罗德",
+                  "伊瑟尔·布罗萨德",
+                  "露比·莫迪恩"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 喜剧 惊悚 恐怖 / 克里斯托弗·兰登 / 杰西卡·罗德 伊瑟尔·布罗萨德",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/27027913/",
+                "release_date": "02.02",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2510057340.webp",
+                  "width": 1976,
+                  "shape": "rectangle",
+                  "height": 3000
+                },
+                "uri": "douban://douban.com/movie/27027913",
+                "subtype": "",
+                "directors": [
+                  "克里斯托弗·兰登"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 13365,
+                  "max": 10,
+                  "value": 7.4
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 喜剧 动画 冒险 / 卡洛斯·沙尔丹哈 / 约翰·塞纳 凯特·麦克金农",
+                "id": "25846857",
+                "title": "公牛历险记",
+                "actors": [
+                  "约翰·塞纳",
+                  "凯特·麦克金农",
+                  "莉莉·戴"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 喜剧 动画 冒险 / 卡洛斯·沙尔丹哈 / 约翰·塞纳 凯特·麦克金农",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/25846857/",
+                "release_date": "01.19",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2510825300.webp",
+                  "width": 1622,
+                  "shape": "rectangle",
+                  "height": 2500
+                },
+                "uri": "douban://douban.com/movie/25846857",
+                "subtype": "",
+                "directors": [
+                  "卡洛斯·沙尔丹哈"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              }
+            ]
+          },
+          {
+            "subject_collection": {
+              "subject_count": 90,
+              "name": "院线即将上映",
+              "url": "https://m.douban.com/app_topic/movie_soon",
+              "uri": "douban://douban.com/subject_collection/movie_soon",
+              "cover_url": "",
+              "display": {
+                "layout": "list"
+              },
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/subject_collection/movie_soon/",
+              "id": "movie_soon",
+              "description": ""
+            },
+            "type": "movie",
+            "items": [
+              {
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 / 爱情 / 张雷 / 范军 李月",
+                "id": "30134714",
+                "title": "爱情的单程列车",
+                "wish_count": 222,
+                "actors": [
+                  "范军",
+                  "李月",
+                  "郑亚龙"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 / 爱情 / 张雷 / 范军 李月",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/30134714/",
+                "release_date": "02.14",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2512547376.webp",
+                  "width": 0,
+                  "shape": "rectangle",
+                  "height": 0
+                },
+                "uri": "douban://douban.com/movie/30134714",
+                "subtype": "",
+                "directors": [
+                  "张雷"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "尚未上映"
+              },
+              {
+                "rating": {
+                  "count": 912,
+                  "max": 10,
+                  "value": 3.2
+                },
+                "actions": [
+                  "可播放"
+                ],
+                "year": "2012",
+                "card_subtitle": "2012 / 中国大陆 / 爱情 / 王一冰 / 赵雨菲 刘子豪",
+                "id": "10566565",
+                "title": "初恋浅规则",
+                "wish_count": 125,
+                "actors": [
+                  "赵雨菲",
+                  "刘子豪"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "中国大陆 / 爱情 / 王一冰 / 赵雨菲 刘子豪",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/10566565/",
+                "release_date": "02.14",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1526536105.webp",
+                  "width": 2100,
+                  "shape": "rectangle",
+                  "height": 3000
+                },
+                "uri": "douban://douban.com/movie/10566565",
+                "subtype": "",
+                "directors": [
+                  "王一冰"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 / 喜剧 动作 悬疑 / 陈思诚 / 王宝强 刘昊然",
+                "id": "26698897",
+                "title": "唐人街探案2",
+                "wish_count": 30614,
+                "actors": [
+                  "王宝强",
+                  "刘昊然",
+                  "肖央"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 / 喜剧 动作 悬疑 / 陈思诚 / 王宝强 刘昊然",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26698897/",
+                "release_date": "02.16",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2511355624.webp",
+                  "width": 1359,
+                  "shape": "rectangle",
+                  "height": 2000
+                },
+                "uri": "douban://douban.com/movie/26698897",
+                "subtype": "",
+                "directors": [
+                  "陈思诚"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "尚未上映"
+              },
+              {
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 香港 / 喜剧 奇幻 / 许诚毅 / 梁朝伟 白百何",
+                "id": "26575103",
+                "title": "捉妖记2",
+                "wish_count": 22760,
+                "actors": [
+                  "梁朝伟",
+                  "白百何",
+                  "井柏然"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 香港 / 喜剧 奇幻 / 许诚毅 / 梁朝伟 白百何",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26575103/",
+                "release_date": "02.16",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2509643816.webp",
+                  "width": 1427,
+                  "shape": "rectangle",
+                  "height": 2000
+                },
+                "uri": "douban://douban.com/movie/26575103",
+                "subtype": "",
+                "directors": [
+                  "许诚毅"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "尚未上映"
+              },
+              {
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 香港 / 喜剧 爱情 奇幻 / 郑保瑞 / 郭富城 冯绍峰",
+                "id": "25829175",
+                "title": "西游记女儿国",
+                "wish_count": 15489,
+                "actors": [
+                  "郭富城",
+                  "冯绍峰",
+                  "赵丽颖"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 香港 / 喜剧 爱情 奇幻 / 郑保瑞 / 郭富城 冯绍峰",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/25829175/",
+                "release_date": "02.16",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2511375626.webp",
+                  "width": 5906,
+                  "shape": "rectangle",
+                  "height": 8268
+                },
+                "uri": "douban://douban.com/movie/25829175",
+                "subtype": "",
+                "directors": [
+                  "郑保瑞"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "尚未上映"
+              },
+              {
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 香港 / 剧情 动作 / 林超贤 / 张译 黄景瑜",
+                "id": "26861685",
+                "title": "红海行动",
+                "wish_count": 12974,
+                "actors": [
+                  "张译",
+                  "黄景瑜",
+                  "海清"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 香港 / 剧情 动作 / 林超贤 / 张译 黄景瑜",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26861685/",
+                "release_date": "02.16",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2511434859.webp",
+                  "width": 857,
+                  "shape": "rectangle",
+                  "height": 1200
+                },
+                "uri": "douban://douban.com/movie/26861685",
+                "subtype": "",
+                "directors": [
+                  "林超贤"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "尚未上映"
+              },
+              {
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 / 喜剧 奇幻 / 郭德纲 / 岳云鹏 吴京",
+                "id": "27114417",
+                "title": "祖宗十九代",
+                "wish_count": 4302,
+                "actors": [
+                  "岳云鹏",
+                  "吴京",
+                  "吴秀波"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 / 喜剧 奇幻 / 郭德纲 / 岳云鹏 吴京",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/27114417/",
+                "release_date": "02.16",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2511560763.webp",
+                  "width": 707,
+                  "shape": "rectangle",
+                  "height": 1000
+                },
+                "uri": "douban://douban.com/movie/27114417",
+                "subtype": "",
+                "directors": [
+                  "郭德纲"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "尚未上映"
+              },
+              {
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 / 喜剧 动画 冒险 / 丁亮 林汇达 / 张伟 张秉君",
+                "id": "27176717",
+                "title": "熊出没·变形记",
+                "wish_count": 1629,
+                "actors": [
+                  "张伟",
+                  "张秉君",
+                  "谭笑"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 / 喜剧 动画 冒险 / 丁亮 / 张伟 张秉君",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/27176717/",
+                "release_date": "02.16",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2506889386.webp",
+                  "width": 1500,
+                  "shape": "rectangle",
+                  "height": 2100
+                },
+                "uri": "douban://douban.com/movie/27176717",
+                "subtype": "",
+                "directors": [
+                  "丁亮"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "尚未上映"
+              },
+              {
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 / 剧情 儿童 / 李金林 / 李世宏 关飞扬",
+                "id": "30136561",
+                "title": "名将之后",
+                "wish_count": 87,
+                "actors": [
+                  "李世宏",
+                  "关飞扬",
+                  "陈嘉铭"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "中国大陆 / 剧情 儿童 / 李金林 / 李世宏 关飞扬",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/30136561/",
+                "release_date": "02.17",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2512453602.webp",
+                  "width": 0,
+                  "shape": "rectangle",
+                  "height": 0
+                },
+                "uri": "douban://douban.com/movie/30136561",
+                "subtype": "",
+                "directors": [
+                  "李金林"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "尚未上映"
+              },
+              {
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 香港 / 喜剧 爱情 / 叶念琛 / 刘嘉玲 任达华",
+                "id": "26995785",
+                "title": "百星贺囍2018",
+                "wish_count": 439,
+                "actors": [
+                  "刘嘉玲",
+                  "任达华",
+                  "诗雅"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "香港 / 喜剧 爱情 / 叶念琛 / 刘嘉玲 任达华",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26995785/",
+                "release_date": "02.20",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2511353034.webp",
+                  "width": 8100,
+                  "shape": "rectangle",
+                  "height": 11400
+                },
+                "uri": "douban://douban.com/movie/26995785",
+                "subtype": "",
+                "directors": [
+                  "叶念琛"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "尚未上映"
+              }
+            ]
+          },
+          {
+            "subject_collection": {
+              "subject_count": 324,
+              "description": "",
+              "name": "豆瓣热门",
+              "display": {
+                "layout": "list"
+              },
+              "url": "https://m.douban.com/app_topic/movie_hot_gaia",
+              "uri": "douban://douban.com/subject_collection/movie_hot_gaia",
+              "cover_url": "",
+              "id": "movie_hot_gaia",
+              "show_filter_playable": true,
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/subject_collection/movie_hot_gaia/"
+            },
+            "type": "movie",
+            "items": [
+              {
+                "rating": {
+                  "count": 265294,
+                  "max": 10,
+                  "value": 7.0
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 中国大陆 日本 / 剧情 悬疑 奇幻 / 陈凯歌 / 黄轩 染谷将太",
+                "id": "5350027",
+                "title": "妖猫传",
+                "actors": [
+                  "黄轩",
+                  "染谷将太",
+                  "张雨绮"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "中国大陆 日本 / 剧情 悬疑 奇幻 / 陈凯歌 / 黄轩 染谷将太",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/5350027/",
+                "release_date": "12.22",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2507024497.webp",
+                  "width": 1000,
+                  "shape": "rectangle",
+                  "height": 1397
+                },
+                "uri": "douban://douban.com/movie/5350027",
+                "subtype": "",
+                "directors": [
+                  "陈凯歌"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 60996,
+                  "max": 10,
+                  "value": 8.7
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 英国 / 剧情 犯罪 / 马丁·麦克唐纳 / 弗兰西斯·麦克多蒙德 伍迪·哈里森",
+                "id": "26611804",
+                "title": "三块广告牌",
+                "actors": [
+                  "弗兰西斯·麦克多蒙德",
+                  "伍迪·哈里森",
+                  "山姆·洛克威尔"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 英国 / 剧情 犯罪 / 马丁·麦克唐纳 / 弗兰西斯·麦克多蒙德 伍迪·哈里森",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26611804/",
+                "release_date": "03.02",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2510081688.webp",
+                  "width": 2000,
+                  "shape": "rectangle",
+                  "height": 2758
+                },
+                "uri": "douban://douban.com/movie/26611804",
+                "subtype": "",
+                "directors": [
+                  "马丁·麦克唐纳"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 413,
+                  "max": 10,
+                  "value": 6.5
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 喜剧 / 希恩·安德鲁斯 / 威尔·法瑞尔 马克·沃尔伯格",
+                "id": "26778069",
+                "title": "老爸当家2",
+                "actors": [
+                  "威尔·法瑞尔",
+                  "马克·沃尔伯格",
+                  "梅尔·吉布森"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 喜剧 / 希恩·安德鲁斯 / 威尔·法瑞尔 马克·沃尔伯格",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26778069/",
+                "release_date": "11.10",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2503839802.webp",
+                  "width": 1381,
+                  "shape": "rectangle",
+                  "height": 2048
+                },
+                "uri": "douban://douban.com/movie/26778069",
+                "subtype": "",
+                "directors": [
+                  "希恩·安德鲁斯"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 425,
+                  "max": 10,
+                  "value": 6.4
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 法国 / 剧情 惊悚 / 阿诺·德斯普里钦 / 马修·阿马立克 夏洛特·甘斯布",
+                "id": "26785580",
+                "title": "伊斯梅尔的幽魂",
+                "actors": [
+                  "马修·阿马立克",
+                  "夏洛特·甘斯布",
+                  "玛丽昂·歌迪亚"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "法国 / 剧情 惊悚 / 阿诺·德斯普里钦 / 马修·阿马立克 夏洛特·甘斯布",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26785580/",
+                "release_date": "05.17",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2458145449.webp",
+                  "width": 2045,
+                  "shape": "rectangle",
+                  "height": 2834
+                },
+                "uri": "douban://douban.com/movie/26785580",
+                "subtype": "",
+                "directors": [
+                  "阿诺·德斯普里钦"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 39441,
+                  "max": 10,
+                  "value": 7.6
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 剧情 奇幻 冒险 / 吉尔莫·德尔·托罗 / 莎莉·霍金斯 迈克尔·珊农",
+                "id": "26752852",
+                "title": "水形物语",
+                "actors": [
+                  "莎莉·霍金斯",
+                  "迈克尔·珊农",
+                  "理查德·詹金斯"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 剧情 奇幻 冒险 / 吉尔莫·德尔·托罗 / 莎莉·霍金斯 迈克尔·珊农",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26752852/",
+                "release_date": "08.31",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2506388632.webp",
+                  "width": 2025,
+                  "shape": "rectangle",
+                  "height": 3000
+                },
+                "uri": "douban://douban.com/movie/26752852",
+                "subtype": "",
+                "directors": [
+                  "吉尔莫·德尔·托罗"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 8764,
+                  "max": 10,
+                  "value": 8.2
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 剧情 传记 历史 / 史蒂文·斯皮尔伯格 / 梅丽尔·斯特里普 汤姆·汉克斯",
+                "id": "26990609",
+                "title": "华盛顿邮报",
+                "actors": [
+                  "梅丽尔·斯特里普",
+                  "汤姆·汉克斯",
+                  "莎拉·保罗森"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 剧情 传记 历史 / 史蒂文·斯皮尔伯格 / 梅丽尔·斯特里普 汤姆·汉克斯",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26990609/",
+                "release_date": "12.22",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2505577378.webp",
+                  "width": 2211,
+                  "shape": "rectangle",
+                  "height": 3276
+                },
+                "uri": "douban://douban.com/movie/26990609",
+                "subtype": "",
+                "directors": [
+                  "史蒂文·斯皮尔伯格"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 15886,
+                  "max": 10,
+                  "value": 7.1
+                },
+                "actions": [],
+                "year": "2018",
+                "card_subtitle": "2018 / 中国大陆 / 悬疑 奇幻 惊悚 / 巨兴茂 / 于毅 何花",
+                "id": "26910820",
+                "title": "灵魂摆渡·黄泉",
+                "actors": [
+                  "于毅",
+                  "何花",
+                  "王瑞昌"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "中国大陆 / 悬疑 奇幻 惊悚 / 巨兴茂 / 于毅 何花",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26910820/",
+                "release_date": "02.01",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2512204463.webp",
+                  "width": 1525,
+                  "shape": "rectangle",
+                  "height": 2000
+                },
+                "uri": "douban://douban.com/movie/26910820",
+                "subtype": "",
+                "directors": [
+                  "巨兴茂"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 56492,
+                  "max": 10,
+                  "value": 8.0
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 剧情 喜剧 家庭 / 格蕾塔·葛韦格 / 西尔莎·罗南 劳里·梅特卡夫",
+                "id": "26588314",
+                "title": "伯德小姐",
+                "actors": [
+                  "西尔莎·罗南",
+                  "劳里·梅特卡夫",
+                  "崔西·莱茨"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 剧情 喜剧 家庭 / 格蕾塔·葛韦格 / 西尔莎·罗南 劳里·梅特卡夫",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26588314/",
+                "release_date": "09.01",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2505925363.webp",
+                  "width": 5567,
+                  "shape": "rectangle",
+                  "height": 7967
+                },
+                "uri": "douban://douban.com/movie/26588314",
+                "subtype": "",
+                "directors": [
+                  "格蕾塔·葛韦格"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 404390,
+                  "max": 10,
+                  "value": 9.1
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 喜剧 动画 冒险 / 李·昂克里奇 阿德里安·莫利纳 / 安东尼·冈萨雷斯 盖尔·加西亚·贝纳尔",
+                "id": "20495023",
+                "title": "寻梦环游记",
+                "actors": [
+                  "安东尼·冈萨雷斯",
+                  "盖尔·加西亚·贝纳尔",
+                  "本杰明·布拉特"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "美国 / 喜剧 动画 冒险 / 李·昂克里奇 / 安东尼·冈萨雷斯 盖尔·加西亚·贝纳尔",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/20495023/",
+                "release_date": "11.24",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2503997609.webp",
+                  "width": 1432,
+                  "shape": "rectangle",
+                  "height": 2048
+                },
+                "uri": "douban://douban.com/movie/20495023",
+                "subtype": "",
+                "directors": [
+                  "李·昂克里奇"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 22410,
+                  "max": 10,
+                  "value": 8.1
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 韩国 / 剧情 动作 战争 / 杨宇硕 / 郑雨盛 郭度沅",
+                "id": "26863778",
+                "title": "铁雨",
+                "actors": [
+                  "郑雨盛",
+                  "郭度沅",
+                  "金甲洙"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "韩国 / 剧情 动作 战争 / 杨宇硕 / 郑雨盛 郭度沅",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26863778/",
+                "release_date": "12.14",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2505050710.webp",
+                  "width": 1000,
+                  "shape": "rectangle",
+                  "height": 1429
+                },
+                "uri": "douban://douban.com/movie/26863778",
+                "subtype": "",
+                "directors": [
+                  "杨宇硕"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 51247,
+                  "max": 10,
+                  "value": 6.1
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 中国大陆 香港 / 动作 犯罪 悬疑 / 徐纪周 / 邓超 阮经天",
+                "id": "26774722",
+                "title": "心理罪之城市之光",
+                "actors": [
+                  "邓超",
+                  "阮经天",
+                  "刘诗诗"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "中国大陆 香港 / 动作 犯罪 悬疑 / 徐纪周 / 邓超 阮经天",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26774722/",
+                "release_date": "12.22",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2506228506.webp",
+                  "width": 716,
+                  "shape": "rectangle",
+                  "height": 1000
+                },
+                "uri": "douban://douban.com/movie/26774722",
+                "subtype": "",
+                "directors": [
+                  "徐纪周"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 51925,
+                  "max": 10,
+                  "value": 4.5
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 中国大陆 香港 / 动作 奇幻 / 袁和平 / 大鹏 倪妮",
+                "id": "26661191",
+                "title": "奇门遁甲",
+                "actors": [
+                  "大鹏",
+                  "倪妮",
+                  "李治廷"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "中国大陆 香港 / 动作 奇幻 / 袁和平 / 大鹏 倪妮",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26661191/",
+                "release_date": "12.14",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2507566212.webp",
+                  "width": 1429,
+                  "shape": "rectangle",
+                  "height": 2000
+                },
+                "uri": "douban://douban.com/movie/26661191",
+                "subtype": "",
+                "directors": [
+                  "袁和平"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 65572,
+                  "max": 10,
+                  "value": 8.6
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 英国 美国 / 剧情 传记 历史 / 乔·赖特 / 加里·奥德曼 克里斯汀·斯科特·托马斯",
+                "id": "26761416",
+                "title": "至暗时刻",
+                "actors": [
+                  "加里·奥德曼",
+                  "克里斯汀·斯科特·托马斯",
+                  "莉莉·詹姆斯"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "英国 美国 / 剧情 传记 历史 / 乔·赖特 / 加里·奥德曼 克里斯汀·斯科特·托马斯",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26761416/",
+                "release_date": "12.01",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2504277551.webp",
+                  "width": 2048,
+                  "shape": "rectangle",
+                  "height": 3005
+                },
+                "uri": "douban://douban.com/movie/26761416",
+                "subtype": "",
+                "directors": [
+                  "乔·赖特"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 52559,
+                  "max": 10,
+                  "value": 5.1
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 中国大陆 / 剧情 奇幻 / 韩杰 / 王俊凯 迪丽热巴",
+                "id": "26654146",
+                "title": "解忧杂货店",
+                "actors": [
+                  "王俊凯",
+                  "迪丽热巴",
+                  "董子健"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "中国大陆 / 剧情 奇幻 / 韩杰 / 王俊凯 迪丽热巴",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26654146/",
+                "release_date": "12.29",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2503544593.webp",
+                  "width": 1000,
+                  "shape": "rectangle",
+                  "height": 1400
+                },
+                "uri": "douban://douban.com/movie/26654146",
+                "subtype": "",
+                "directors": [
+                  "韩杰"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 15263,
+                  "max": 10,
+                  "value": 8.4
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 剧情 传记 灾难 / 约瑟夫·科辛斯基 / 乔什·布洛林 迈尔斯·特勒",
+                "id": "26718828",
+                "title": "勇往直前",
+                "actors": [
+                  "乔什·布洛林",
+                  "迈尔斯·特勒",
+                  "杰夫·布里吉斯"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 剧情 传记 灾难 / 约瑟夫·科辛斯基 / 乔什·布洛林 迈尔斯·特勒",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26718828/",
+                "release_date": "12.08",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2506348908.webp",
+                  "width": 2025,
+                  "shape": "rectangle",
+                  "height": 3000
+                },
+                "uri": "douban://douban.com/movie/26718828",
+                "subtype": "",
+                "directors": [
+                  "约瑟夫·科辛斯基"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 119982,
+                  "max": 10,
+                  "value": 7.0
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 马耳他 / 剧情 犯罪 悬疑 / 肯尼思·布拉纳 / 肯尼思·布拉纳 佩内洛普·克鲁兹",
+                "id": "25790761",
+                "title": "东方快车谋杀案",
+                "actors": [
+                  "肯尼思·布拉纳",
+                  "佩内洛普·克鲁兹",
+                  "威廉·达福"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "美国 马耳他 / 剧情 犯罪 悬疑 / 肯尼思·布拉纳 / 肯尼思·布拉纳 佩内洛普·克鲁兹",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/25790761/",
+                "release_date": "11.10",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2502165084.webp",
+                  "width": 2048,
+                  "shape": "rectangle",
+                  "height": 3025
+                },
+                "uri": "douban://douban.com/movie/25790761",
+                "subtype": "",
+                "directors": [
+                  "肯尼思·布拉纳"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 12209,
+                  "max": 10,
+                  "value": 8.0
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 剧情 儿童 / 肖恩·贝克 / 布鲁克琳·普林斯 布丽娅·维纳特",
+                "id": "26778790",
+                "title": "佛罗里达乐园",
+                "actors": [
+                  "布鲁克琳·普林斯",
+                  "布丽娅·维纳特",
+                  "威廉·达福"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "美国 / 剧情 儿童 / 肖恩·贝克 / 布鲁克琳·普林斯 布丽娅·维纳特",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26778790/",
+                "release_date": "05.22",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2496148493.webp",
+                  "width": 2025,
+                  "shape": "rectangle",
+                  "height": 3000
+                },
+                "uri": "douban://douban.com/movie/26778790",
+                "subtype": "",
+                "directors": [
+                  "肖恩·贝克"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 40859,
+                  "max": 10,
+                  "value": 4.5
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 中国大陆 / 喜剧 恐怖 / 吴君如 / 吴君如 沈腾",
+                "id": "26966580",
+                "title": "妖铃铃",
+                "actors": [
+                  "吴君如",
+                  "沈腾",
+                  "岳云鹏"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "中国大陆 / 喜剧 恐怖 / 吴君如 / 吴君如 沈腾",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26966580/",
+                "release_date": "12.29",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2506825662.webp",
+                  "width": 2143,
+                  "shape": "rectangle",
+                  "height": 3000
+                },
+                "uri": "douban://douban.com/movie/26966580",
+                "subtype": "",
+                "directors": [
+                  "吴君如"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 172306,
+                  "max": 10,
+                  "value": 8.3
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 加拿大 英国 / 剧情 科幻 惊悚 / 丹尼斯·维伦纽瓦 / 瑞恩·高斯林 哈里森·福特",
+                "id": "10512661",
+                "title": "银翼杀手2049",
+                "actors": [
+                  "瑞恩·高斯林",
+                  "哈里森·福特",
+                  "安娜·德·阿玛斯"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "info": "美国 加拿大 英国 / 剧情 科幻 惊悚 / 丹尼斯·维伦纽瓦 / 瑞恩·高斯林 哈里森·福特",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/10512661/",
+                "release_date": "10.27",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2501864539.webp",
+                  "width": 960,
+                  "shape": "rectangle",
+                  "height": 1453
+                },
+                "uri": "douban://douban.com/movie/10512661",
+                "subtype": "",
+                "directors": [
+                  "丹尼斯·维伦纽瓦"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 99202,
+                  "max": 10,
+                  "value": 8.6
+                },
+                "actions": [],
+                "year": "2017",
+                "card_subtitle": "2017 / 英国 波兰 / 剧情 传记 动画 / 多洛塔·科别拉 休·韦尔什曼 / 道格拉斯·布斯 罗伯特·古拉奇克",
+                "id": "25837262",
+                "title": "至爱梵高·星空之谜",
+                "actors": [
+                  "道格拉斯·布斯",
+                  "罗伯特·古拉奇克",
+                  "埃莉诺·汤姆林森"
+                ],
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "info": "英国 波兰 / 剧情 传记 动画 / 多洛塔·科别拉 / 道格拉斯·布斯 罗伯特·古拉奇克",
+                "url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/25837262/",
+                "release_date": "12.08",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2506935748.webp",
+                  "width": 4429,
+                  "shape": "rectangle",
+                  "height": 6204
+                },
+                "uri": "douban://douban.com/movie/25837262",
+                "subtype": "",
+                "directors": [
+                  "多洛塔·科别拉"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              }
+            ]
+          }
+        ],
+        "total": 3
+      },
+      "uri": "douban://douban.com/tag/49/subject_collection_boards",
+      "key": "subject_collection_boards"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_ad",
+      "data": {
+        "type": "movie",
+        "unit": "dale_movie_second_banner"
+      },
+      "uri": "",
+      "key": "subject_ad"
+    },
+    {
+      "url": "",
+      "module_name": "movie_selected_collections",
+      "data": {
+        "total": 3,
+        "selected_collections": [
+          {
+            "description": "8分以上好电影",
+            "url": "https://m.douban.com/app_topic/movie_top250",
+            "items": [
+              {
+                "rating": {
+                  "count": 969454,
+                  "max": 10,
+                  "value": 9.6,
+                  "star_count": 5.0
+                },
+                "genres": [
+                  "犯罪",
+                  "剧情"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/1292052/",
+                "pubdate": [
+                  "1994-09-10(多伦多电影节)"
+                ],
+                "has_linewatch": true,
+                "url": "https://movie.douban.com/subject/1292052/",
+                "release_date": "1994-09-10",
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p480747492.webp",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.webp"
+                },
+                "uri": "douban://douban.com/movie/1292052",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "弗兰克·德拉邦特"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "蒂姆·罗宾斯"
+                  },
+                  {
+                    "name": "摩根·弗里曼"
+                  },
+                  {
+                    "name": "鲍勃·冈顿"
+                  },
+                  {
+                    "name": "威廉姆·赛德勒"
+                  },
+                  {
+                    "name": "克兰西·布朗"
+                  },
+                  {
+                    "name": "吉尔·贝罗斯"
+                  },
+                  {
+                    "name": "马克·罗斯顿"
+                  },
+                  {
+                    "name": "詹姆斯·惠特摩"
+                  },
+                  {
+                    "name": "杰弗里·德曼"
+                  },
+                  {
+                    "name": "拉里·布兰登伯格"
+                  },
+                  {
+                    "name": "尼尔·吉恩托利"
+                  },
+                  {
+                    "name": "布赖恩·利比"
+                  },
+                  {
+                    "name": "大卫·普罗瓦尔"
+                  },
+                  {
+                    "name": "约瑟夫·劳格诺"
+                  },
+                  {
+                    "name": "祖德·塞克利拉"
+                  }
+                ],
+                "is_released": true,
+                "year": "1994",
+                "card_subtitle": "1994 / 美国 / 犯罪 剧情 / 弗兰克·德拉邦特 / 蒂姆·罗宾斯 摩根·弗里曼",
+                "title": "肖申克的救赎",
+                "type": "movie",
+                "id": "1292052",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 703545,
+                  "max": 10,
+                  "value": 9.5,
+                  "star_count": 5.0
+                },
+                "genres": [
+                  "剧情",
+                  "爱情",
+                  "同性"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/1291546/",
+                "pubdate": [
+                  "1993-01-01(香港)"
+                ],
+                "has_linewatch": true,
+                "url": "https://movie.douban.com/subject/1291546/",
+                "release_date": "1993-01-01",
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1910813120.webp",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.webp"
+                },
+                "uri": "douban://douban.com/movie/1291546",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "陈凯歌"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "张国荣"
+                  },
+                  {
+                    "name": "张丰毅"
+                  },
+                  {
+                    "name": "巩俐"
+                  },
+                  {
+                    "name": "葛优"
+                  },
+                  {
+                    "name": "英达"
+                  },
+                  {
+                    "name": "蒋雯丽"
+                  },
+                  {
+                    "name": "吴大维"
+                  },
+                  {
+                    "name": "吕齐"
+                  },
+                  {
+                    "name": "雷汉"
+                  },
+                  {
+                    "name": "尹治"
+                  },
+                  {
+                    "name": "马明威"
+                  },
+                  {
+                    "name": "费振翔"
+                  },
+                  {
+                    "name": "智一桐"
+                  },
+                  {
+                    "name": "李春"
+                  },
+                  {
+                    "name": "赵海龙"
+                  },
+                  {
+                    "name": "李丹"
+                  },
+                  {
+                    "name": "童弟"
+                  },
+                  {
+                    "name": "沈慧芬"
+                  },
+                  {
+                    "name": "黄斐"
+                  }
+                ],
+                "is_released": true,
+                "year": "1993",
+                "card_subtitle": "1993 / 中国大陆 香港 / 剧情 爱情 同性 / 陈凯歌 / 张国荣 张丰毅",
+                "title": "霸王别姬",
+                "type": "movie",
+                "id": "1291546",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 916408,
+                  "max": 10,
+                  "value": 9.4,
+                  "star_count": 4.5
+                },
+                "genres": [
+                  "剧情",
+                  "动作",
+                  "犯罪"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/1295644/",
+                "pubdate": [
+                  "1994-09-14(法国)"
+                ],
+                "has_linewatch": true,
+                "url": "https://movie.douban.com/subject/1295644/",
+                "release_date": "1994-09-14",
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p511118051.webp",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.webp"
+                },
+                "uri": "douban://douban.com/movie/1295644",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "吕克·贝松"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "让·雷诺"
+                  },
+                  {
+                    "name": "娜塔莉·波特曼"
+                  },
+                  {
+                    "name": "加里·奥德曼"
+                  },
+                  {
+                    "name": "丹尼·爱罗"
+                  },
+                  {
+                    "name": "彼得·阿佩尔"
+                  },
+                  {
+                    "name": "迈克尔·巴达鲁科"
+                  },
+                  {
+                    "name": "艾伦·格里尼"
+                  },
+                  {
+                    "name": "伊丽莎白·瑞根"
+                  },
+                  {
+                    "name": "卡尔·马图斯维奇"
+                  },
+                  {
+                    "name": "弗兰克·赛格"
+                  },
+                  {
+                    "name": "麦温"
+                  },
+                  {
+                    "name": "乔治·马丁"
+                  },
+                  {
+                    "name": "罗伯特·拉萨多"
+                  },
+                  {
+                    "name": "亚当·布斯奇"
+                  },
+                  {
+                    "name": "马里奥·托迪斯科"
+                  },
+                  {
+                    "name": "萨米·纳塞利"
+                  }
+                ],
+                "is_released": true,
+                "year": "1994",
+                "card_subtitle": "1994 / 法国 / 剧情 动作 犯罪 / 吕克·贝松 / 让·雷诺 娜塔莉·波特曼",
+                "title": "这个杀手不太冷",
+                "type": "movie",
+                "id": "1295644",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 779231,
+                  "max": 10,
+                  "value": 9.4,
+                  "star_count": 4.5
+                },
+                "genres": [
+                  "剧情",
+                  "爱情"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/1292720/",
+                "pubdate": [
+                  "1994-06-23(洛杉矶首映)"
+                ],
+                "has_linewatch": true,
+                "url": "https://movie.douban.com/subject/1292720/",
+                "release_date": "1994-06-23",
+                "pic": {
+                  "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p510876377.webp",
+                  "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876377.webp"
+                },
+                "uri": "douban://douban.com/movie/1292720",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "罗伯特·泽米吉斯"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "汤姆·汉克斯"
+                  },
+                  {
+                    "name": "罗宾·怀特"
+                  },
+                  {
+                    "name": "加里·西尼斯"
+                  },
+                  {
+                    "name": "麦凯尔泰·威廉逊"
+                  },
+                  {
+                    "name": "莎莉·菲尔德"
+                  },
+                  {
+                    "name": "Michael Conner Humphreys"
+                  },
+                  {
+                    "name": "海利·乔·奥斯蒙"
+                  }
+                ],
+                "is_released": true,
+                "year": "1994",
+                "card_subtitle": "1994 / 美国 / 剧情 爱情 / 罗伯特·泽米吉斯 / 汤姆·汉克斯 罗宾·怀特",
+                "title": "阿甘正传",
+                "type": "movie",
+                "id": "1292720",
+                "null_rating_reason": ""
+              }
+            ],
+            "uri": "douban://douban.com/subject_collection/movie_top250",
+            "covers": [
+              "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.webp",
+              "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.webp",
+              "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.webp"
+            ],
+            "rank": true,
+            "total": 250,
+            "background_color": "#E1A01A",
+            "id": "movie_top250",
+            "name": "豆瓣 Top250"
+          },
+          {
+            "description": "2月5日 - 2月12日",
+            "url": "https://m.douban.com/app_topic/movie_best",
+            "items": [
+              {
+                "rating": {
+                  "count": 8764,
+                  "max": 10,
+                  "value": 8.2,
+                  "star_count": 4.0
+                },
+                "genres": [
+                  "剧情",
+                  "传记",
+                  "历史"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26990609/",
+                "pubdate": [
+                  "2017-12-22(美国点映)"
+                ],
+                "has_linewatch": false,
+                "url": "https://movie.douban.com/subject/26990609/",
+                "release_date": "2017-12-22",
+                "pic": {
+                  "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2505577378.webp",
+                  "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505577378.webp"
+                },
+                "uri": "douban://douban.com/movie/26990609",
+                "trend_up": false,
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "史蒂文·斯皮尔伯格"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "梅丽尔·斯特里普"
+                  },
+                  {
+                    "name": "汤姆·汉克斯"
+                  },
+                  {
+                    "name": "莎拉·保罗森"
+                  },
+                  {
+                    "name": "鲍勃·奥登科克"
+                  },
+                  {
+                    "name": "崔西·莱茨"
+                  },
+                  {
+                    "name": "布莱德利·惠特福德"
+                  },
+                  {
+                    "name": "布鲁斯·格林伍德"
+                  },
+                  {
+                    "name": "马修·瑞斯"
+                  },
+                  {
+                    "name": "爱丽森·布里"
+                  },
+                  {
+                    "name": "凯莉·库恩"
+                  },
+                  {
+                    "name": "杰西·普莱蒙"
+                  },
+                  {
+                    "name": "大卫·克罗斯"
+                  },
+                  {
+                    "name": "扎克·伍兹"
+                  },
+                  {
+                    "name": "帕特·希利"
+                  },
+                  {
+                    "name": "约翰·鲁"
+                  },
+                  {
+                    "name": "里克·霍姆斯"
+                  },
+                  {
+                    "name": "菲利普·卡斯诺夫"
+                  },
+                  {
+                    "name": "杰茜·缪勒"
+                  },
+                  {
+                    "name": "斯塔克·桑德斯"
+                  },
+                  {
+                    "name": "迈克尔·西里尔·克赖顿"
+                  },
+                  {
+                    "name": "威尔·丹顿"
+                  },
+                  {
+                    "name": "迪尔德丽·罗夫乔"
+                  },
+                  {
+                    "name": "迈克尔·斯图巴"
+                  }
+                ],
+                "is_released": true,
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 剧情 传记 历史 / 史蒂文·斯皮尔伯格 / 梅丽尔·斯特里普 汤姆·汉克斯",
+                "title": "华盛顿邮报",
+                "type": "movie",
+                "id": "26990609",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 866,
+                  "max": 10,
+                  "value": 7.7,
+                  "star_count": 4.0
+                },
+                "genres": [
+                  "剧情",
+                  "喜剧"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26341049/",
+                "pubdate": [
+                  "2016-09-03(威尼斯电影节)"
+                ],
+                "has_linewatch": false,
+                "url": "https://movie.douban.com/subject/26341049/",
+                "release_date": "2016-09-03",
+                "pic": {
+                  "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2392737277.webp",
+                  "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2392737277.webp"
+                },
+                "uri": "douban://douban.com/movie/26341049",
+                "trend_up": true,
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "彼得·博罗斯"
+                  },
+                  {
+                    "name": "杰西卡·霍普伍德沃思"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "彼得·范·登·贝京"
+                  },
+                  {
+                    "name": "露西·德拜"
+                  },
+                  {
+                    "name": "提图斯·德·沃格特"
+                  },
+                  {
+                    "name": "布鲁诺·若里斯"
+                  },
+                  {
+                    "name": "戈兰·拉达克维奇"
+                  },
+                  {
+                    "name": "彼得·范·德·侯文"
+                  },
+                  {
+                    "name": "尼娜·尼古拉娜"
+                  },
+                  {
+                    "name": "瓦伦丁·加内夫"
+                  },
+                  {
+                    "name": "娜塔丽·拉罗什"
+                  },
+                  {
+                    "name": "尤里·安杰洛夫"
+                  }
+                ],
+                "is_released": true,
+                "year": "2016",
+                "card_subtitle": "2016 / 比利时 荷兰 保加利亚 / 剧情 喜剧 / 彼得·博罗斯 杰西卡·霍普伍德沃思 / 彼得·范·登·贝京 露西·德拜",
+                "title": "比利时国王",
+                "type": "movie",
+                "id": "26341049",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 158,
+                  "max": 10,
+                  "value": 8.2,
+                  "star_count": 4.0
+                },
+                "genres": [
+                  "剧情",
+                  "喜剧"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/27002761/",
+                "pubdate": [
+                  "2017-06-14(法国)"
+                ],
+                "has_linewatch": false,
+                "url": "https://movie.douban.com/subject/27002761/",
+                "release_date": "2017-06-14",
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2505074484.webp",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505074484.webp"
+                },
+                "uri": "douban://douban.com/movie/27002761",
+                "trend_up": true,
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "塞德里克·克拉皮斯"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "皮奥·马麦"
+                  },
+                  {
+                    "name": "安娜·吉拉多特"
+                  },
+                  {
+                    "name": "弗朗索瓦·西维尔"
+                  },
+                  {
+                    "name": "让-马克·鲁洛"
+                  },
+                  {
+                    "name": "玛丽亚·巴尔维德"
+                  },
+                  {
+                    "name": "雅米·库卓"
+                  },
+                  {
+                    "name": "让-马利·文灵"
+                  },
+                  {
+                    "name": "弗罗伦斯·派梅尔"
+                  },
+                  {
+                    "name": "埃里克·卡拉瓦卡"
+                  },
+                  {
+                    "name": "萨拉·格莱宾"
+                  },
+                  {
+                    "name": "陶菲克·杰拉巴"
+                  },
+                  {
+                    "name": "卡丽佳·图尔"
+                  }
+                ],
+                "is_released": true,
+                "year": "2017",
+                "card_subtitle": "2017 / 法国 / 剧情 喜剧 / 塞德里克·克拉皮斯 / 皮奥·马麦 安娜·吉拉多特",
+                "title": "浓情酒乡",
+                "type": "movie",
+                "id": "27002761",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 534,
+                  "max": 10,
+                  "value": 9.0,
+                  "star_count": 4.5
+                },
+                "genres": [
+                  "剧情",
+                  "战争",
+                  "科幻"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26919026/",
+                "pubdate": [
+                  "2017-09-02(日本)"
+                ],
+                "has_linewatch": false,
+                "url": "https://movie.douban.com/subject/26919026/",
+                "release_date": "2017-09-02",
+                "pic": {
+                  "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2495283318.webp",
+                  "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495283318.webp"
+                },
+                "uri": "douban://douban.com/movie/26919026",
+                "trend_up": true,
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "安彦良和"
+                  },
+                  {
+                    "name": "今西隆志"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "池田秀一"
+                  },
+                  {
+                    "name": "潘惠美"
+                  },
+                  {
+                    "name": "三宅健太"
+                  },
+                  {
+                    "name": "古谷彻"
+                  },
+                  {
+                    "name": "浦山迅"
+                  },
+                  {
+                    "name": "银河万丈"
+                  },
+                  {
+                    "name": "柿原彻也"
+                  },
+                  {
+                    "name": "泽城美雪"
+                  },
+                  {
+                    "name": "大塚明夫"
+                  }
+                ],
+                "is_released": true,
+                "year": "2017",
+                "card_subtitle": "2017 / 日本 / 剧情 战争 科幻 / 安彦良和 今西隆志 / 池田秀一 潘惠美",
+                "title": "机动战士高达THE ORIGIN V 激战 鲁姆战役篇",
+                "type": "movie",
+                "id": "26919026",
+                "null_rating_reason": ""
+              }
+            ],
+            "uri": "douban://douban.com/subject_collection/movie_best",
+            "covers": [
+              "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505577378.webp",
+              "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2392737277.webp",
+              "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505074484.webp"
+            ],
+            "rank": true,
+            "total": 10,
+            "background_color": "#33BC61",
+            "id": "movie_best",
+            "name": "本周口碑榜"
+          },
+          {
+            "current_tab": "北美",
+            "description": "票房最高排名",
+            "url": "https://m.douban.com/app_topic/movie_high_box_office",
+            "items": [
+              {
+                "rating": {
+                  "count": 619,
+                  "max": 10,
+                  "value": 5.3,
+                  "star_count": 2.5
+                },
+                "genres": [
+                  "剧情",
+                  "爱情",
+                  "情色"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26323032/",
+                "pubdate": [
+                  "2018-02-09(美国)"
+                ],
+                "has_linewatch": false,
+                "url": "https://movie.douban.com/subject/26323032/",
+                "release_date": "2018-02-09",
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2504300654.webp",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2504300654.webp"
+                },
+                "uri": "douban://douban.com/movie/26323032",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "詹姆斯·弗雷"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "达科塔·约翰逊"
+                  },
+                  {
+                    "name": "詹米·多南"
+                  },
+                  {
+                    "name": "阿莉尔·凯贝尔"
+                  },
+                  {
+                    "name": "埃里克·约翰逊"
+                  },
+                  {
+                    "name": "瑞塔·奥拉"
+                  },
+                  {
+                    "name": "卢克·葛莱姆斯"
+                  },
+                  {
+                    "name": "布兰特·道格尔迪"
+                  },
+                  {
+                    "name": "泰勒·霍奇林"
+                  },
+                  {
+                    "name": "马克斯·马蒂尼"
+                  },
+                  {
+                    "name": "劳拉·雅各布斯"
+                  },
+                  {
+                    "name": "费伊·马斯特森"
+                  }
+                ],
+                "is_released": true,
+                "year": "2018",
+                "card_subtitle": "2018 / 美国 / 剧情 爱情 情色 / 詹姆斯·弗雷 / 达科塔·约翰逊 詹米·多南",
+                "title": "五十度飞",
+                "type": "movie",
+                "id": "26323032",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 121,
+                  "max": 10,
+                  "value": 7.4,
+                  "star_count": 3.5
+                },
+                "genres": [
+                  "喜剧",
+                  "动画",
+                  "冒险"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26649604/",
+                "pubdate": [
+                  "2018-03-02(中国大陆)"
+                ],
+                "has_linewatch": false,
+                "url": "https://movie.douban.com/subject/26649604/",
+                "release_date": "2018-02-09",
+                "pic": {
+                  "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2511721149.webp",
+                  "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511721149.webp"
+                },
+                "uri": "douban://douban.com/movie/26649604",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "威尔·古勒"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "詹姆斯·柯登"
+                  },
+                  {
+                    "name": "多姆纳尔·格里森"
+                  },
+                  {
+                    "name": "黛西·雷德利"
+                  },
+                  {
+                    "name": "玛格特·罗比"
+                  },
+                  {
+                    "name": "伊丽莎白·德比茨基"
+                  },
+                  {
+                    "name": "萝丝·拜恩"
+                  },
+                  {
+                    "name": "山姆·尼尔"
+                  },
+                  {
+                    "name": "希雅"
+                  }
+                ],
+                "is_released": true,
+                "year": "2018",
+                "card_subtitle": "2018 / 美国 英国 澳大利亚 / 喜剧 动画 冒险 / 威尔·古勒 / 詹姆斯·柯登 多姆纳尔·格里森",
+                "title": "比得兔",
+                "type": "movie",
+                "id": "26649604",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 69,
+                  "max": 10,
+                  "value": 5.6,
+                  "star_count": 3.0
+                },
+                "genres": [
+                  "剧情",
+                  "历史",
+                  "惊悚"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/27028934/",
+                "pubdate": [
+                  "2018-02-07(法国)"
+                ],
+                "has_linewatch": false,
+                "url": "https://movie.douban.com/subject/27028934/",
+                "release_date": "2018-02-07",
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2508324636.webp",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508324636.webp"
+                },
+                "uri": "douban://douban.com/movie/27028934",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "克林特·伊斯特伍德"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "斯宾塞·斯通"
+                  },
+                  {
+                    "name": "安东尼·萨德勒"
+                  },
+                  {
+                    "name": "亚历克·斯卡拉托斯"
+                  },
+                  {
+                    "name": "朱迪·格雷尔"
+                  },
+                  {
+                    "name": "珍娜·费舍"
+                  },
+                  {
+                    "name": "贾里尔·怀特"
+                  },
+                  {
+                    "name": "托马斯·列农"
+                  },
+                  {
+                    "name": "托尼·海尔"
+                  },
+                  {
+                    "name": "P·J·伯恩"
+                  },
+                  {
+                    "name": "布莱斯·吉扎尔"
+                  },
+                  {
+                    "name": "斯蒂芬·考特尔"
+                  },
+                  {
+                    "name": "罗伯特·普拉尔戈"
+                  },
+                  {
+                    "name": "加里·维克斯"
+                  }
+                ],
+                "is_released": true,
+                "year": "2018",
+                "card_subtitle": "2018 / 美国 / 剧情 历史 惊悚 / 克林特·伊斯特伍德 / 斯宾塞·斯通 安东尼·萨德勒",
+                "title": "15点17分，启程巴黎",
+                "type": "movie",
+                "id": "27028934",
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 60199,
+                  "max": 10,
+                  "value": 7.2,
+                  "star_count": 3.5
+                },
+                "genres": [
+                  "动作",
+                  "奇幻",
+                  "冒险"
+                ],
+                "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26586766/",
+                "pubdate": [
+                  "2018-01-12(中国大陆)"
+                ],
+                "has_linewatch": false,
+                "url": "https://movie.douban.com/subject/26586766/",
+                "release_date": "2017-12-20",
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2506258944.webp",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506258944.webp"
+                },
+                "uri": "douban://douban.com/movie/26586766",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "杰克·卡斯丹"
+                  }
+                ],
+                "actors": [
+                  {
+                    "name": "道恩·强森"
+                  },
+                  {
+                    "name": "凯文·哈特"
+                  },
+                  {
+                    "name": "杰克·布莱克"
+                  },
+                  {
+                    "name": "凯伦·吉兰"
+                  },
+                  {
+                    "name": "尼克·乔纳斯"
+                  },
+                  {
+                    "name": "瑞斯·达比"
+                  },
+                  {
+                    "name": "鲍比·坎纳瓦尔"
+                  },
+                  {
+                    "name": "亚历克斯·沃尔夫"
+                  },
+                  {
+                    "name": "瑟达吕斯·布兰"
+                  },
+                  {
+                    "name": "麦迪森·伊瑟曼"
+                  },
+                  {
+                    "name": "摩根·特纳"
+                  },
+                  {
+                    "name": "梅森·古乔内"
+                  },
+                  {
+                    "name": "马克·埃文·杰克逊"
+                  },
+                  {
+                    "name": "玛琳·辛科"
+                  },
+                  {
+                    "name": "特雷西·邦纳"
+                  },
+                  {
+                    "name": "玛莉贝丝·梦露"
+                  },
+                  {
+                    "name": "米西·派勒"
+                  },
+                  {
+                    "name": "杰米·雷内尔"
+                  },
+                  {
+                    "name": "卡尔利斯·布克"
+                  },
+                  {
+                    "name": "罗翰·昌德"
+                  },
+                  {
+                    "name": "科林·汉克斯"
+                  }
+                ],
+                "is_released": true,
+                "year": "2017",
+                "card_subtitle": "2017 / 美国 / 动作 奇幻 冒险 / 杰克·卡斯丹 / 道恩·强森 凯文·哈特",
+                "title": "勇敢者游戏：决战丛林",
+                "type": "movie",
+                "id": "26586766",
+                "null_rating_reason": ""
+              }
+            ],
+            "uri": "douban://douban.com/subject_collection/movie_high_box_office",
+            "covers": [
+              "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2504300654.webp",
+              "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511721149.webp",
+              "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508324636.webp"
+            ],
+            "tabs": [
+              "全国",
+              "北美"
+            ],
+            "rank": true,
+            "total": 14,
+            "background_color": "#E56B87",
+            "id": "movie_high_box_office",
+            "name": "北美票房榜"
+          }
+        ],
+        "title": "精选榜单"
+      },
+      "uri": "",
+      "key": "selected_collections"
+    },
+    {
+      "url": "",
+      "module_name": "movie_recommend_trailers",
+      "data": {
+        "items": [
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/24773958/trailer%3Ftrailer_id%3D227362%26trailer_type%3DC",
+            "video_url": "http://vt1.doubanio.com/201802121615/3d01a0c5b909ac758c59850c9bb093e6/view/movie/M/302270362.mp4",
+            "title": "其它花絮：漫威电影宇宙十周年超全卡司大集结 (中文字幕)",
+            "uri": "douban://douban.com/movie/24773958/trailer?trailer_id\u003d227362\u0026trailer_type\u003dC",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2513074194.jpg?1518151456",
+            "term_num": 1,
+            "n_comments": 17,
+            "create_time": "2018-02-09",
+            "subject_title": "复仇者联盟3：无限战争",
+            "runtime": "01:10",
+            "type": "C",
+            "id": "227362",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/3168101/trailer%3Ftrailer_id%3D227348%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/f97dfc64ca1ea7cccf1945078ddc6910/view/movie/M/302270348.mp4",
+            "title": "中国先行版 (中文字幕)",
+            "uri": "douban://douban.com/movie/3168101/trailer?trailer_id\u003d227348\u0026trailer_type\u003dA",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2513065726.jpg?1518144488",
+            "term_num": 0,
+            "n_comments": 19,
+            "create_time": "2018-02-09",
+            "subject_title": "毒液：致命守护者",
+            "runtime": "01:32",
+            "type": "A",
+            "id": "227348",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26588308/trailer%3Ftrailer_id%3D227317%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/f24a9eada769c2899805f0a7c83d7af1/view/movie/M/302270317.mp4",
+            "title": "中国预告片：玩坏电索版 (中文字幕)",
+            "uri": "douban://douban.com/movie/26588308/trailer?trailer_id\u003d227317\u0026trailer_type\u003dA",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2512989580.jpg?1518069467",
+            "term_num": 0,
+            "n_comments": 16,
+            "create_time": "2018-02-08",
+            "subject_title": "死侍2",
+            "runtime": "02:01",
+            "type": "A",
+            "id": "227317",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26004132/trailer%3Ftrailer_id%3D226450%26trailer_type%3DC",
+            "video_url": "http://vt1.doubanio.com/201802121615/0c1fcf7ddd920040694f618c10a07c1d/view/movie/M/302260450.mp4",
+            "title": "花絮：豆瓣电影专访《移动迷宫3》跑男团 (中文字幕)",
+            "uri": "douban://douban.com/movie/26004132/trailer?trailer_id\u003d226450\u0026trailer_type\u003dC",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2511379821.jpg?",
+            "term_num": 0,
+            "n_comments": 9,
+            "create_time": "2018-01-20",
+            "subject_title": "移动迷宫3：死亡解药",
+            "runtime": "08:03",
+            "type": "C",
+            "id": "226450",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26336252/trailer%3Ftrailer_id%3D227152%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/270762a9183ca3cd2d865e3964b58f93/view/movie/M/302270152.mp4",
+            "title": "中国预告片 (中文字幕)",
+            "uri": "douban://douban.com/movie/26336252/trailer?trailer_id\u003d227152\u0026trailer_type\u003dA",
+            "cover_url": "https://img1.doubanio.com/img/trailer/medium/2512745509.jpg?1517830497",
+            "term_num": 0,
+            "n_comments": 43,
+            "create_time": "2018-02-05",
+            "subject_title": "碟中谍6：全面瓦解",
+            "runtime": "02:21",
+            "type": "A",
+            "id": "227152",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/3445906/trailer%3Ftrailer_id%3D227154%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/90f1ad2fce85efc29232697dc1da993c/view/movie/M/302270154.mp4",
+            "title": "中国预告片 (中文字幕)",
+            "uri": "douban://douban.com/movie/3445906/trailer?trailer_id\u003d227154\u0026trailer_type\u003dA",
+            "cover_url": "https://img1.doubanio.com/img/trailer/medium/2512721767.jpg?1517811712",
+            "term_num": 0,
+            "n_comments": 22,
+            "create_time": "2018-02-05",
+            "subject_title": "古墓丽影：源起之战",
+            "runtime": "02:18",
+            "type": "A",
+            "id": "227154",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26366496/trailer%3Ftrailer_id%3D227161%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/db2304b19ea9facdcca181f901e65799/view/movie/M/302270161.mp4",
+            "title": "先行版 (中文字幕)",
+            "uri": "douban://douban.com/movie/26366496/trailer?trailer_id\u003d227161\u0026trailer_type\u003dA",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2512738841.jpg?1517824666",
+            "term_num": 0,
+            "n_comments": 50,
+            "create_time": "2018-02-05",
+            "subject_title": "邪不压正",
+            "runtime": "00:15",
+            "type": "A",
+            "id": "227161",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/3914513/trailer%3Ftrailer_id%3D226018%26trailer_type%3DC",
+            "video_url": "http://vt1.doubanio.com/201802121615/83b3aa0c592d93040389475462c126c6/view/movie/M/302260018.mp4",
+            "title": "花絮：音乐特辑 (中文字幕)",
+            "uri": "douban://douban.com/movie/3914513/trailer?trailer_id\u003d226018\u0026trailer_type\u003dC",
+            "cover_url": "https://img1.doubanio.com/img/trailer/medium/2510332367.jpg?",
+            "term_num": 0,
+            "n_comments": 2,
+            "create_time": "2018-01-11",
+            "subject_title": "马戏之王",
+            "runtime": "02:41",
+            "type": "C",
+            "id": "226018",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/24773958/trailer%3Ftrailer_id%3D227123%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/68ae00377608d75a632b66a0d305ce21/view/movie/M/302270123.mp4",
+            "title": "电视版：超级碗版 (中文字幕)",
+            "uri": "douban://douban.com/movie/24773958/trailer?trailer_id\u003d227123\u0026trailer_type\u003dA",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2512738163.jpg?1517824170",
+            "term_num": 0,
+            "n_comments": 21,
+            "create_time": "2018-02-05",
+            "subject_title": "复仇者联盟3：无限战争",
+            "runtime": "00:34",
+            "type": "A",
+            "id": "227123",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26416062/trailer%3Ftrailer_id%3D227159%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/20ed70d4b2da1693b056eff5434495e0/view/movie/M/302270159.mp4",
+            "title": "中国预告片：超级碗版 (中文字幕)",
+            "uri": "douban://douban.com/movie/26416062/trailer?trailer_id\u003d227159\u0026trailer_type\u003dA",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2512721916.jpg?1517811524",
+            "term_num": 0,
+            "n_comments": 9,
+            "create_time": "2018-02-05",
+            "subject_title": "侏罗纪世界2",
+            "runtime": "01:30",
+            "type": "A",
+            "id": "227159",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/25900947/trailer%3Ftrailer_id%3D227124%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/b5bd27619867126f825e8f51d35a550e/view/movie/M/302270124.mp4",
+            "title": "电视版：超级碗版 (中文字幕)",
+            "uri": "douban://douban.com/movie/25900947/trailer?trailer_id\u003d227124\u0026trailer_type\u003dA",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2512738120.jpg?1517824144",
+            "term_num": 0,
+            "n_comments": 4,
+            "create_time": "2018-02-05",
+            "subject_title": "游侠索罗：星球大战外传",
+            "runtime": "00:52",
+            "type": "A",
+            "id": "227124",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26804147/trailer%3Ftrailer_id%3D227160%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/f39d658a878a1cdba4bb0b3ba1441176/view/movie/M/302270160.mp4",
+            "title": "中国预告片 (中文字幕)",
+            "uri": "douban://douban.com/movie/26804147/trailer?trailer_id\u003d227160\u0026trailer_type\u003dA",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2512722254.jpg?1517813177",
+            "term_num": 0,
+            "n_comments": 2,
+            "create_time": "2018-02-05",
+            "subject_title": "摩天营救",
+            "runtime": "02:27",
+            "type": "A",
+            "id": "227160",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/3914513/trailer%3Ftrailer_id%3D225920%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/a11300152d1fbc09a561defd07eb3f9b/view/movie/M/302250920.mp4",
+            "title": "中国预告片：定档版 (中文字幕)",
+            "uri": "douban://douban.com/movie/3914513/trailer?trailer_id\u003d225920\u0026trailer_type\u003dA",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2510685504.jpg?1515988975",
+            "term_num": 0,
+            "n_comments": 5,
+            "create_time": "2018-01-09",
+            "subject_title": "马戏之王",
+            "runtime": "02:18",
+            "type": "A",
+            "id": "225920",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/6874741/trailer%3Ftrailer_id%3D226149%26trailer_type%3DC",
+            "video_url": "http://vt1.doubanio.com/201802121615/ccaec3a50139578525ee1acf593bb037/view/movie/M/302260149.mp4",
+            "title": "花絮：豆瓣电影专访章子怡 (中文字幕)",
+            "uri": "douban://douban.com/movie/6874741/trailer?trailer_id\u003d226149\u0026trailer_type\u003dC",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2510691445.jpg?",
+            "term_num": 0,
+            "n_comments": 11,
+            "create_time": "2018-01-15",
+            "subject_title": "无问西东",
+            "runtime": "07:46",
+            "type": "C",
+            "id": "226149",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26586766/trailer%3Ftrailer_id%3D225844%26trailer_type%3DC",
+            "video_url": "http://vt1.doubanio.com/201802121615/7b7d016ab518dca92fbc216c99729483/view/movie/M/302250844.mp4",
+            "title": "花絮：豆瓣电影专访巨石强森 (中文字幕)",
+            "uri": "douban://douban.com/movie/26586766/trailer?trailer_id\u003d225844\u0026trailer_type\u003dC",
+            "cover_url": "https://img1.doubanio.com/img/trailer/medium/2510023669.jpg?",
+            "term_num": 0,
+            "n_comments": 8,
+            "create_time": "2018-01-08",
+            "subject_title": "勇敢者游戏：决战丛林",
+            "runtime": "08:01",
+            "type": "C",
+            "id": "225844",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/5350027/trailer%3Ftrailer_id%3D225402%26trailer_type%3DC",
+            "video_url": "http://vt1.doubanio.com/201802121615/962d8d471ea9fde21b0ed97bcec2ca3a/view/movie/M/302250402.mp4",
+            "title": "花絮：豆瓣电影专访“杨贵妃”张榕容 (中文字幕)",
+            "uri": "douban://douban.com/movie/5350027/trailer?trailer_id\u003d225402\u0026trailer_type\u003dC",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2508583113.jpg?",
+            "term_num": 0,
+            "n_comments": 38,
+            "create_time": "2017-12-24",
+            "subject_title": "妖猫传",
+            "runtime": "11:56",
+            "type": "C",
+            "id": "225402",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/5350027/trailer%3Ftrailer_id%3D225166%26trailer_type%3DC",
+            "video_url": "http://vt1.doubanio.com/201802121615/e808ac64c01b274b2f94f4c6c881222f/view/movie/M/302250166.mp4",
+            "title": "花絮：豆瓣电影专访陈凯歌 (中文字幕)",
+            "uri": "douban://douban.com/movie/5350027/trailer?trailer_id\u003d225166\u0026trailer_type\u003dC",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2507886992.jpg?",
+            "term_num": 0,
+            "n_comments": 24,
+            "create_time": "2017-12-17",
+            "subject_title": "妖猫传",
+            "runtime": "12:53",
+            "type": "C",
+            "id": "225166",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26942674/trailer%3Ftrailer_id%3D226083%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/e55eb6996a9e4ebdf3543f95368f192d/view/movie/M/302260083.mp4",
+            "title": "中国预告片：终极版 (中文字幕)",
+            "uri": "douban://douban.com/movie/26942674/trailer?trailer_id\u003d226083\u0026trailer_type\u003dA",
+            "cover_url": "https://img3.doubanio.com/img/trailer/medium/2511084446.jpg?1516360421",
+            "term_num": 0,
+            "n_comments": 33,
+            "create_time": "2018-01-12",
+            "subject_title": "神秘巨星",
+            "runtime": "02:15",
+            "type": "A",
+            "id": "226083",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26942674/trailer%3Ftrailer_id%3D222600%26trailer_type%3DB",
+            "video_url": "http://vt1.doubanio.com/201802121615/897bf6553985e1a460fa087c32a5efe8/view/movie/M/302220600.mp4",
+            "title": "片段：米叔歌舞彩蛋",
+            "uri": "douban://douban.com/movie/26942674/trailer?trailer_id\u003d222600\u0026trailer_type\u003dB",
+            "cover_url": "https://img1.doubanio.com/img/trailer/medium/2502120347.jpg?",
+            "term_num": 0,
+            "n_comments": 19,
+            "create_time": "2017-10-15",
+            "subject_title": "神秘巨星",
+            "runtime": "03:39",
+            "type": "B",
+            "id": "222600",
+            "desc": ""
+          },
+          {
+            "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri\u003d/movie/26636712/trailer%3Ftrailer_id%3D226958%26trailer_type%3DA",
+            "video_url": "http://vt1.doubanio.com/201802121615/c2d89611065bb1a2fb8cd54119e7284f/view/movie/M/302260958.mp4",
+            "title": "中国先行版 (中文字幕)",
+            "uri": "douban://douban.com/movie/26636712/trailer?trailer_id\u003d226958\u0026trailer_type\u003dA",
+            "cover_url": "https://img1.doubanio.com/img/trailer/medium/2512327887.jpg?1517460362",
+            "term_num": 0,
+            "n_comments": 12,
+            "create_time": "2018-02-01",
+            "subject_title": "蚁人2：黄蜂女现身",
+            "runtime": "01:45",
+            "type": "A",
+            "id": "226958",
+            "desc": ""
+          }
+        ],
+        "total": 81,
+        "type": "movie",
+        "title": "热门预告片"
+      },
+      "uri": "douban://douban.com/movie/recommend_trailers",
+      "key": "recommend_trailers"
+    },
+    {
+      "url": "",
+      "module_name": "movie_selected_channels",
+      "data": {
+        "type": "movie",
+        "title": "频道"
+      },
+      "uri": "",
+      "key": "selected_channels"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_suggestion",
+      "data": {
+        "type": "movie",
+        "title": "你可能感兴趣"
+      },
+      "uri": "",
+      "key": "subject_suggestion"
+    }
+  ],
+  "name": "电影"
+}
