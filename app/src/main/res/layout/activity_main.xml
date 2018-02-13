@@ -9,7 +9,7 @@
 
     <Button
         android:layout_margin="16dp"
-        android:text="go"
+        android:text="打开豆瓣"
         android:id="@+id/go"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
