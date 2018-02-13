@@ -4,7 +4,27 @@
 
 ## 效果图
 
+<div>
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/index.gif"/>    
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/top250.gif"/>
+</div>
+<div>
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/yuanxian.gif"/>    
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/yuanxian2.gif"/>
+</div>
+<div>
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/box.gif"/>    
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/video.gif"/>
+</div>
+<div>
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/person.gif"/>    
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/movie.gif"/>
+</div>
 
+<div>
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/reading.png"/>    
+<img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/usercenter.png"/>
+</div>
 
 
 ## 集成React Native到原生应用
