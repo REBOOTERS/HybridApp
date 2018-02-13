@@ -94,4 +94,7 @@ project(':react-native-image-crop-picker').projectDir = new File(rootProject.pro
 
 这里集成在项目中React Native应用的源码在这里[React Native 仿豆瓣电影](https://github.com/REBOOTERS/BestPracticesRN)，对React Native应用感兴趣的童鞋可以观摩一下O(∩_∩)O哈哈~。
 
+**应用中用到的数据，抓取自豆瓣API及[豆瓣开发平台](https://developers.douban.com/wiki/?title=movie_v2)，仅供学习**
+
 更多React Native 学习整理，请看[ReactNativePractice](https://github.com/REBOOTERS/ReactNativePractice)
+
