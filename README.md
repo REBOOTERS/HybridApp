@@ -2,6 +2,9 @@
 
 这是一个在Android原生应用中集成React Native 的项目。在原生应用中集成了一个仿豆瓣客户端（很久之前写的，UI已经不怎么像了o(╯□╰)o）的React Native应用。
 
+
+
+
 ## 效果图
 
 <div>
@@ -26,6 +29,9 @@
 <img width=273 src="https://github.com/REBOOTERS/HybridApp/blob/master/capture/usercenter.png"/>
 </div>
 
+## 扫码下载demo体验效果
+
+![](https://qr.api.cli.im/qr?data=https%253A%252F%252Ffir.im%252F7fqg&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=2bd6cc63261f3ceb698fb66550f06f32)
 
 ## 集成React Native到原生应用
 
@@ -109,6 +115,8 @@ project(':react-native-image-crop-picker').projectDir = new File(rootProject.pro
 如果想打包的话，在Windows上执行release.cmd 即可，会自动生成相应的js.bundle 文件并生成最终的apk文件。
 
 在mac上，按照release.cmd 中的内容执行相应的bash 命令即可，手边没有环境，bash脚本没法验证，如果有人写出来并验证通过了，可以分享一下！
+
+
 
 ### 更多
 
